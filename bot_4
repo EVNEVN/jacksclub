@@ -1,1 +1,1388 @@
-(function(_0x21bceb,_0x4fc91f){const _0x31df39=_0x2f11,_0x5461b0=_0x21bceb();while(!![]){try{const _0x37a08f=parseInt(_0x31df39(0x152))/0x1+parseInt(_0x31df39(0x14f))/0x2*(-parseInt(_0x31df39(0x161))/0x3)+parseInt(_0x31df39(0x136))/0x4*(-parseInt(_0x31df39(0x141))/0x5)+-parseInt(_0x31df39(0x15e))/0x6*(-parseInt(_0x31df39(0x160))/0x7)+-parseInt(_0x31df39(0x149))/0x8*(parseInt(_0x31df39(0x14e))/0x9)+-parseInt(_0x31df39(0x172))/0xa*(parseInt(_0x31df39(0x150))/0xb)+parseInt(_0x31df39(0x159))/0xc;if(_0x37a08f===_0x4fc91f)break;else _0x5461b0['push'](_0x5461b0['shift']());}catch(_0x129998){_0x5461b0['push'](_0x5461b0['shift']());}}}(_0x2d2a,0xf3c33));const _0xed3dcd=(function(){let _0x5943e8=!![];return function(_0x576ac2,_0x10075b){const _0x5199cd=_0x5943e8?function(){const _0x14308b=_0x2f11;if(_0x10075b){const _0x272676=_0x10075b[_0x14308b(0x170)](_0x576ac2,arguments);return _0x10075b=null,_0x272676;}}:function(){};return _0x5943e8=![],_0x5199cd;};}()),_0x352de2=_0xed3dcd(this,function(){const _0x2a6688=_0x2f11;return _0x352de2[_0x2a6688(0x16e)]()[_0x2a6688(0x13e)](_0x2a6688(0x165))[_0x2a6688(0x16e)]()[_0x2a6688(0x133)](_0x352de2)[_0x2a6688(0x13e)]('(((.+)+)+)+$');});_0x352de2();function _0x2f11(_0x1caadb,_0x938d){const _0x57c4dc=_0x2d2a();return _0x2f11=function(_0x5192a1,_0x290a1f){_0x5192a1=_0x5192a1-0x12a;let _0x2b9959=_0x57c4dc[_0x5192a1];return _0x2b9959;},_0x2f11(_0x1caadb,_0x938d);}const _0x290a1f=(function(){let _0x1ff124=!![];return function(_0x765202,_0x5d3845){const _0x509b0e=_0x1ff124?function(){const _0x370966=_0x2f11;if(_0x5d3845){const _0x5b1bf5=_0x5d3845[_0x370966(0x170)](_0x765202,arguments);return _0x5d3845=null,_0x5b1bf5;}}:function(){};return _0x1ff124=![],_0x509b0e;};}()),_0x5192a1=_0x290a1f(this,function(){const _0x120d52=_0x2f11;let _0x34ebc1;try{const _0x4e5d98=Function('return\x20(function()\x20'+_0x120d52(0x151)+');');_0x34ebc1=_0x4e5d98();}catch(_0x3f8817){_0x34ebc1=window;}const _0x59fa41=_0x34ebc1[_0x120d52(0x146)]=_0x34ebc1['console']||{},_0x20edd9=[_0x120d52(0x139),_0x120d52(0x171),_0x120d52(0x163),_0x120d52(0x134),_0x120d52(0x13b),_0x120d52(0x15a),_0x120d52(0x12b)];for(let _0x56cf8c=0x0;_0x56cf8c<_0x20edd9['length'];_0x56cf8c++){const _0x373276=_0x290a1f[_0x120d52(0x133)][_0x120d52(0x143)][_0x120d52(0x169)](_0x290a1f),_0x405fcf=_0x20edd9[_0x56cf8c],_0x5a9514=_0x59fa41[_0x405fcf]||_0x373276;_0x373276[_0x120d52(0x138)]=_0x290a1f[_0x120d52(0x169)](_0x290a1f),_0x373276['toString']=_0x5a9514['toString'][_0x120d52(0x169)](_0x5a9514),_0x59fa41[_0x405fcf]=_0x373276;}});function _0x2d2a(){const _0x20a1a6=['prototype','safe_emalloc','length','console','split','new_sub_num','21208eKGLTf','scale','memcpy','bc_is_zero','min','1134PXwxSO','2627482nFDUEQ','11UhGHou','{}.constructor(\x22return\x20this\x22)(\x20)','841213CfRdMV','n_len','_bc_simp_mul','bc_str2num','MINUS','MIN','BASE','29797848bYVgOE','table','php_str2num','_bc_do_sub','n_scale','2948046ITIdRB','CH_VAL','14sDUhJa','3IREmli','bc_new_num','info','join','(((.+)+)+)+$','_bc_rec_mul','bc_multiply','bc_sub','bind','_bc_do_compare','shift','PLUS','n_sign','toString','bc_num','apply','warn','7663560rTUGlh','MAX','trace','n_value','_one_mult','(BC)\x20Out\x20of\x20memory','undefined','_bc_rm_leading_zeros','floor','bc_init_num','constructor','error','indexOf','143116zBnukC','bc_out_of_memory','__proto__','log','_bc_shift_addsub','exception','bc_divide','_bc_do_add','search','substr','MUL_BASE_DIGITS','125GxjOvY','memset'];_0x2d2a=function(){return _0x20a1a6;};return _0x2d2a();}_0x5192a1();const _bc=()=>{var _0x259425={'PLUS':'+','MINUS':'-','BASE':0xa,'scale':0x0,'bc_num':function(){const _0x36b774=_0x2f11;this[_0x36b774(0x16d)]=null,this[_0x36b774(0x153)]=null,this[_0x36b774(0x15d)]=null,this[_0x36b774(0x12c)]=null,this['toString']=function(){const _0x465931=_0x36b774;let _0x5c1917,_0x348b4a;return _0x348b4a=this[_0x465931(0x12c)][_0x465931(0x164)](''),_0x5c1917=(this[_0x465931(0x16d)]===_0x259425['PLUS']?'':this[_0x465931(0x16d)])+_0x348b4a[_0x465931(0x13f)](0x0,this[_0x465931(0x153)]),this[_0x465931(0x15d)]>0x0&&(_0x5c1917+='.'+_0x348b4a[_0x465931(0x13f)](this[_0x465931(0x153)],this['n_scale'])),_0x5c1917;};},'bc_add':function(_0x14d46a,_0x46ec0e,_0x4b7ebf){const _0x513b17=_0x2f11;let _0x462d60,_0x4b93bd,_0x117e1b;if(_0x14d46a['n_sign']===_0x46ec0e[_0x513b17(0x16d)])_0x462d60=_0x259425[_0x513b17(0x13d)](_0x14d46a,_0x46ec0e,_0x4b7ebf),_0x462d60[_0x513b17(0x16d)]=_0x14d46a['n_sign'];else{_0x4b93bd=_0x259425[_0x513b17(0x16a)](_0x14d46a,_0x46ec0e,![],![]);switch(_0x4b93bd){case-0x1:_0x462d60=_0x259425[_0x513b17(0x15c)](_0x46ec0e,_0x14d46a,_0x4b7ebf),_0x462d60[_0x513b17(0x16d)]=_0x46ec0e['n_sign'];break;case 0x0:_0x117e1b=_0x259425['MAX'](_0x4b7ebf,_0x259425[_0x513b17(0x12a)](_0x14d46a[_0x513b17(0x15d)],_0x46ec0e[_0x513b17(0x15d)])),_0x462d60=_0x259425[_0x513b17(0x162)](0x1,_0x117e1b),_0x259425[_0x513b17(0x142)](_0x462d60[_0x513b17(0x12c)],0x0,0x0,_0x117e1b+0x1);break;case 0x1:_0x462d60=_0x259425[_0x513b17(0x15c)](_0x14d46a,_0x46ec0e,_0x4b7ebf),_0x462d60[_0x513b17(0x16d)]=_0x14d46a[_0x513b17(0x16d)];}}return _0x462d60;},'bc_compare':function(_0x331ae8,_0x22e1a5){const _0x15dbe4=_0x2f11;return _0x259425[_0x15dbe4(0x16a)](_0x331ae8,_0x22e1a5,!![],![]);},'_one_mult':function(_0x23961a,_0x44b1a0,_0x1feced,_0x704477,_0x48e811,_0x2c969){const _0x502ffc=_0x2f11;let _0x301383,_0x79419f,_0x409e4,_0x2c3d02;if(_0x704477===0x0)_0x259425[_0x502ffc(0x142)](_0x48e811,0x0,0x0,_0x1feced);else{if(_0x704477===0x1)_0x259425['memcpy'](_0x48e811,_0x2c969,_0x23961a,_0x44b1a0,_0x1feced);else{_0x409e4=_0x44b1a0+_0x1feced-0x1,_0x2c3d02=_0x2c969+_0x1feced-0x1,_0x301383=0x0;while(_0x1feced-->0x0){_0x79419f=_0x23961a[_0x409e4--]*_0x704477+_0x301383,_0x48e811[_0x2c3d02--]=_0x79419f%_0x259425[_0x502ffc(0x158)],_0x301383=Math[_0x502ffc(0x131)](_0x79419f/_0x259425[_0x502ffc(0x158)]);}_0x301383!==0x0&&(_0x48e811[_0x2c3d02]=_0x301383);}}},'bc_divide':function(_0x3948c7,_0x49e1cc,_0x49e6ad){const _0x420777=_0x2f11;let _0x195d8a,_0x2df847,_0x3b35b8,_0x444d84,_0x127eab,_0x5e65c8,_0x32d5de,_0x2fc98e,_0x463123,_0x536518,_0xb2ee62,_0x4579b3,_0x2746e4,_0x116c0d,_0x5c92ce,_0xfe3505,_0x3ceaec,_0x1e9451,_0x3224d3,_0x4a9ee8,_0x27e228,_0x14b742;if(_0x259425[_0x420777(0x14c)](_0x49e1cc))return-0x1;if(_0x259425['bc_is_zero'](_0x3948c7))return _0x259425[_0x420777(0x162)](0x1,_0x49e6ad);_0x49e1cc[_0x420777(0x15d)]===0x0&&(_0x49e1cc['n_len']===0x1&&_0x49e1cc[_0x420777(0x12c)][0x0]===0x1&&(_0x195d8a=_0x259425[_0x420777(0x162)](_0x3948c7[_0x420777(0x153)],_0x49e6ad),_0x195d8a[_0x420777(0x16d)]=_0x3948c7['n_sign']===_0x49e1cc[_0x420777(0x16d)]?_0x259425[_0x420777(0x16c)]:_0x259425[_0x420777(0x156)],_0x259425[_0x420777(0x142)](_0x195d8a[_0x420777(0x12c)],_0x3948c7[_0x420777(0x153)],0x0,_0x49e6ad),_0x259425[_0x420777(0x14b)](_0x195d8a['n_value'],0x0,_0x3948c7[_0x420777(0x12c)],0x0,_0x3948c7[_0x420777(0x153)]+_0x259425[_0x420777(0x157)](_0x3948c7['n_scale'],_0x49e6ad))));_0x4579b3=_0x49e1cc[_0x420777(0x15d)],_0x5e65c8=_0x49e1cc[_0x420777(0x153)]+_0x4579b3-0x1;while(_0x4579b3>0x0&&_0x49e1cc['n_value'][_0x5e65c8--]===0x0){_0x4579b3--;}_0x536518=_0x3948c7[_0x420777(0x153)]+_0x4579b3,_0x2fc98e=_0x3948c7[_0x420777(0x15d)]-_0x4579b3;_0x2fc98e<_0x49e6ad?_0x116c0d=_0x49e6ad-_0x2fc98e:_0x116c0d=0x0;_0x2df847=_0x259425[_0x420777(0x144)](0x1,_0x3948c7['n_len']+_0x3948c7['n_scale'],_0x116c0d+0x2);_0x2df847===null&&_0x259425[_0x420777(0x137)]();_0x259425[_0x420777(0x142)](_0x2df847,0x0,0x0,_0x3948c7[_0x420777(0x153)]+_0x3948c7[_0x420777(0x15d)]+_0x116c0d+0x2),_0x259425[_0x420777(0x14b)](_0x2df847,0x1,_0x3948c7[_0x420777(0x12c)],0x0,_0x3948c7['n_len']+_0x3948c7['n_scale']),_0xb2ee62=_0x49e1cc['n_len']+_0x4579b3,_0x3b35b8=_0x259425[_0x420777(0x144)](0x1,_0xb2ee62,0x1);_0x3b35b8===null&&_0x259425['bc_out_of_memory']();_0x259425[_0x420777(0x14b)](_0x3b35b8,0x0,_0x49e1cc['n_value'],0x0,_0xb2ee62),_0x3b35b8[_0xb2ee62]=0x0,_0x5e65c8=0x0;while(_0x3b35b8[_0x5e65c8]===0x0){_0x5e65c8++,_0xb2ee62--;}_0xb2ee62>_0x536518+_0x49e6ad?(_0x2746e4=_0x49e6ad+0x1,_0x27e228=!![]):(_0x27e228=![],_0xb2ee62>_0x536518?_0x2746e4=_0x49e6ad+0x1:_0x2746e4=_0x536518-_0xb2ee62+_0x49e6ad+0x1);_0x195d8a=_0x259425[_0x420777(0x162)](_0x2746e4-_0x49e6ad,_0x49e6ad),_0x259425[_0x420777(0x142)](_0x195d8a[_0x420777(0x12c)],0x0,0x0,_0x2746e4),_0x4a9ee8=_0x259425[_0x420777(0x144)](0x1,_0xb2ee62,0x1);_0x4a9ee8===null&&_0x259425['bc_out_of_memory']();if(!_0x27e228){_0x14b742=Math[_0x420777(0x131)](0xa/(_0x49e1cc[_0x420777(0x12c)][_0x5e65c8]+0x1));_0x14b742!==0x1&&(_0x259425['_one_mult'](_0x2df847,0x0,_0x536518+_0x2fc98e+_0x116c0d+0x1,_0x14b742,_0x2df847,0x0),_0x259425[_0x420777(0x12d)](_0x49e1cc[_0x420777(0x12c)],_0x5e65c8,_0xb2ee62,_0x14b742,_0x49e1cc[_0x420777(0x12c)],_0x5e65c8));_0xfe3505=0x0;_0xb2ee62>_0x536518?_0x32d5de=_0xb2ee62-_0x536518:_0x32d5de=0x0;while(_0xfe3505<=_0x536518+_0x49e6ad-_0xb2ee62){_0x49e1cc[_0x420777(0x12c)][_0x5e65c8]===_0x2df847[_0xfe3505]?_0x3ceaec=0x9:_0x3ceaec=Math[_0x420777(0x131)]((_0x2df847[_0xfe3505]*0xa+_0x2df847[_0xfe3505+0x1])/_0x49e1cc[_0x420777(0x12c)][_0x5e65c8]);_0x49e1cc[_0x420777(0x12c)][_0x5e65c8+0x1]*_0x3ceaec>(_0x2df847[_0xfe3505]*0xa+_0x2df847[_0xfe3505+0x1]-_0x49e1cc['n_value'][_0x5e65c8]*_0x3ceaec)*0xa+_0x2df847[_0xfe3505+0x2]&&(_0x3ceaec--,_0x49e1cc[_0x420777(0x12c)][_0x5e65c8+0x1]*_0x3ceaec>(_0x2df847[_0xfe3505]*0xa+_0x2df847[_0xfe3505+0x1]-_0x49e1cc[_0x420777(0x12c)][_0x5e65c8]*_0x3ceaec)*0xa+_0x2df847[_0xfe3505+0x2]&&_0x3ceaec--);_0x1e9451=0x0;if(_0x3ceaec!==0x0){_0x4a9ee8[0x0]=0x0,_0x259425[_0x420777(0x12d)](_0x49e1cc['n_value'],_0x5e65c8,_0xb2ee62,_0x3ceaec,_0x4a9ee8,0x1),_0x444d84=_0xfe3505+_0xb2ee62,_0x127eab=_0xb2ee62;for(_0x5c92ce=0x0;_0x5c92ce<_0xb2ee62+0x1;_0x5c92ce++){_0x127eab<0x0?_0x463123=_0x2df847[_0x444d84]-0x0-_0x1e9451:_0x463123=_0x2df847[_0x444d84]-_0x4a9ee8[_0x127eab--]-_0x1e9451,_0x463123<0x0?(_0x463123+=0xa,_0x1e9451=0x1):_0x1e9451=0x0,_0x2df847[_0x444d84--]=_0x463123;}}if(_0x1e9451===0x1){_0x3ceaec--,_0x444d84=_0xfe3505+_0xb2ee62,_0x127eab=_0xb2ee62-0x1,_0x3224d3=0x0;for(_0x5c92ce=0x0;_0x5c92ce<_0xb2ee62;_0x5c92ce++){_0x127eab<0x0?_0x463123=_0x2df847[_0x444d84]+0x0+_0x3224d3:_0x463123=_0x2df847[_0x444d84]+_0x49e1cc[_0x420777(0x12c)][_0x127eab--]+_0x3224d3,_0x463123>0x9?(_0x463123-=0xa,_0x3224d3=0x1):_0x3224d3=0x0,_0x2df847[_0x444d84--]=_0x463123;}_0x3224d3===0x1&&(_0x2df847[_0x444d84]=(_0x2df847[_0x444d84]+0x1)%0xa);}_0x195d8a['n_value'][_0x32d5de++]=_0x3ceaec,_0xfe3505++;}}return _0x195d8a[_0x420777(0x16d)]=_0x3948c7['n_sign']===_0x49e1cc['n_sign']?_0x259425['PLUS']:_0x259425[_0x420777(0x156)],_0x259425[_0x420777(0x14c)](_0x195d8a)&&(_0x195d8a['n_sign']=_0x259425[_0x420777(0x16c)]),_0x259425[_0x420777(0x130)](_0x195d8a),_0x195d8a;},'MUL_BASE_DIGITS':0x50,'MUL_SMALL_DIGITS':0x50/0x4,'bc_multiply':function(_0x15595a,_0x485d6c,_0x938c6b){const _0xd2d32a=_0x2f11;let _0x1004e9,_0x29c874,_0x5f0fc6,_0x75be75,_0x2b2855;return _0x29c874=_0x15595a[_0xd2d32a(0x153)]+_0x15595a[_0xd2d32a(0x15d)],_0x5f0fc6=_0x485d6c[_0xd2d32a(0x153)]+_0x485d6c[_0xd2d32a(0x15d)],_0x75be75=_0x15595a['n_scale']+_0x485d6c[_0xd2d32a(0x15d)],_0x2b2855=_0x259425['MIN'](_0x75be75,_0x259425['MAX'](_0x938c6b,_0x259425[_0xd2d32a(0x12a)](_0x15595a[_0xd2d32a(0x15d)],_0x485d6c['n_scale']))),_0x1004e9=_0x259425['_bc_rec_mul'](_0x15595a,_0x29c874,_0x485d6c,_0x5f0fc6,_0x75be75),_0x1004e9['n_sign']=_0x15595a[_0xd2d32a(0x16d)]===_0x485d6c[_0xd2d32a(0x16d)]?_0x259425[_0xd2d32a(0x16c)]:_0x259425['MINUS'],_0x1004e9[_0xd2d32a(0x153)]=_0x5f0fc6+_0x29c874+0x1-_0x75be75,_0x1004e9[_0xd2d32a(0x15d)]=_0x2b2855,_0x259425[_0xd2d32a(0x130)](_0x1004e9),_0x259425[_0xd2d32a(0x14c)](_0x1004e9)&&(_0x1004e9[_0xd2d32a(0x16d)]=_0x259425[_0xd2d32a(0x16c)]),_0x1004e9;},'new_sub_num':function(_0x243673,_0x31bfc4,_0x24436a,_0x5d9292=0x0){const _0x34011c=_0x2f11,_0x372a5f=new _0x259425[(_0x34011c(0x16f))]();return _0x372a5f['n_sign']=_0x259425[_0x34011c(0x16c)],_0x372a5f[_0x34011c(0x153)]=_0x243673,_0x372a5f[_0x34011c(0x15d)]=_0x31bfc4,_0x372a5f[_0x34011c(0x12c)]=_0x259425[_0x34011c(0x144)](0x1,_0x243673+_0x31bfc4,0x0),_0x259425[_0x34011c(0x14b)](_0x372a5f[_0x34011c(0x12c)],0x0,_0x24436a,_0x5d9292,_0x243673+_0x31bfc4),_0x372a5f;},'_bc_simp_mul':function(_0x30b0d5,_0x42330d,_0x4763cf,_0x3bab7f,_0x4617be){const _0x3c47e3=_0x2f11;let _0x4ddbd2,_0x164f36,_0xabf94b,_0x329912,_0x3750a7,_0x43d0ec,_0x2fdd2f,_0x49a6a2,_0x29bd25;_0x29bd25=_0x42330d+_0x3bab7f+0x1,_0x4ddbd2=_0x259425[_0x3c47e3(0x162)](_0x29bd25,0x0),_0x3750a7=_0x42330d-0x1,_0x43d0ec=_0x3bab7f-0x1,_0x329912=_0x29bd25-0x1,_0x49a6a2=0x0;for(_0x2fdd2f=0x0;_0x2fdd2f<_0x29bd25-0x1;_0x2fdd2f++){_0x164f36=_0x3750a7-_0x259425[_0x3c47e3(0x12a)](0x0,_0x2fdd2f-_0x3bab7f+0x1),_0xabf94b=_0x43d0ec-_0x259425[_0x3c47e3(0x157)](_0x2fdd2f,_0x3bab7f-0x1);while(_0x164f36>=0x0&&_0xabf94b<=_0x43d0ec){_0x49a6a2+=_0x30b0d5[_0x3c47e3(0x12c)][_0x164f36--]*_0x4763cf[_0x3c47e3(0x12c)][_0xabf94b++];}_0x4ddbd2[_0x3c47e3(0x12c)][_0x329912--]=Math[_0x3c47e3(0x131)](_0x49a6a2%_0x259425[_0x3c47e3(0x158)]),_0x49a6a2=Math[_0x3c47e3(0x131)](_0x49a6a2/_0x259425[_0x3c47e3(0x158)]);}return _0x4ddbd2['n_value'][_0x329912]=_0x49a6a2,_0x4ddbd2;},'_bc_shift_addsub':function(_0x2ff673,_0x53d044,_0x48dd3e,_0xc89d12){const _0x56a307=_0x2f11;let _0x53464c,_0x558c7c,_0x3dac5c,_0x274163;_0x3dac5c=_0x53d044['n_len'];_0x53d044[_0x56a307(0x12c)][0x0]===0x0&&_0x3dac5c--;if(_0x2ff673[_0x56a307(0x153)]+_0x2ff673[_0x56a307(0x15d)]<_0x48dd3e+_0x3dac5c)throw new Error('len\x20+\x20scale\x20<\x20shift\x20+\x20count');_0x53464c=_0x2ff673['n_len']+_0x2ff673[_0x56a307(0x15d)]-_0x48dd3e-0x1,_0x558c7c=_0x53d044[_0x56a307(0x153)]-0x1,_0x274163=0x0;if(_0xc89d12){while(_0x3dac5c--){_0x2ff673[_0x56a307(0x12c)][_0x53464c]-=_0x53d044[_0x56a307(0x12c)][_0x558c7c--]+_0x274163,_0x2ff673[_0x56a307(0x12c)][_0x53464c]<0x0?(_0x274163=0x1,_0x2ff673['n_value'][_0x53464c--]+=_0x259425[_0x56a307(0x158)]):(_0x274163=0x0,_0x53464c--);}while(_0x274163){_0x2ff673[_0x56a307(0x12c)][_0x53464c]-=_0x274163,_0x2ff673[_0x56a307(0x12c)][_0x53464c]<0x0?_0x2ff673['n_value'][_0x53464c--]+=_0x259425[_0x56a307(0x158)]:_0x274163=0x0;}}else{while(_0x3dac5c--){_0x2ff673['n_value'][_0x53464c]+=_0x53d044['n_value'][_0x558c7c--]+_0x274163,_0x2ff673['n_value'][_0x53464c]>_0x259425[_0x56a307(0x158)]-0x1?(_0x274163=0x1,_0x2ff673[_0x56a307(0x12c)][_0x53464c--]-=_0x259425[_0x56a307(0x158)]):(_0x274163=0x0,_0x53464c--);}while(_0x274163){_0x2ff673[_0x56a307(0x12c)][_0x53464c]+=_0x274163,_0x2ff673[_0x56a307(0x12c)][_0x53464c]>_0x259425[_0x56a307(0x158)]-0x1?_0x2ff673[_0x56a307(0x12c)][_0x53464c--]-=_0x259425[_0x56a307(0x158)]:_0x274163=0x0;}}return!![];},'_bc_rec_mul':function(_0x401daf,_0x4a3b22,_0x4f2627,_0x3d1e24,_0x2d0a77){const _0x3b5925=_0x2f11;let _0xfe74fe,_0x47ba00,_0x3dd737,_0x40be41,_0x1bf2d5,_0x437abd,_0x1bdccf,_0x20a128,_0x32461f,_0x3de2ea,_0x13b6bb,_0x4d9198,_0x2a5ce7,_0x29775a,_0x244eb9;if(_0x4a3b22+_0x3d1e24<_0x259425[_0x3b5925(0x140)]||_0x4a3b22<_0x259425['MUL_SMALL_DIGITS']||_0x3d1e24<_0x259425['MUL_SMALL_DIGITS'])return _0x259425[_0x3b5925(0x154)](_0x401daf,_0x4a3b22,_0x4f2627,_0x3d1e24,_0x2d0a77);return _0x13b6bb=Math[_0x3b5925(0x131)]((_0x259425[_0x3b5925(0x12a)](_0x4a3b22,_0x3d1e24)+0x1)/0x2),_0x4a3b22<_0x13b6bb?(_0x3dd737=_0x259425[_0x3b5925(0x132)](),_0x47ba00=_0x259425[_0x3b5925(0x148)](_0x4a3b22,0x0,_0x401daf[_0x3b5925(0x12c)])):(_0x3dd737=_0x259425[_0x3b5925(0x148)](_0x4a3b22-_0x13b6bb,0x0,_0x401daf['n_value']),_0x47ba00=_0x259425[_0x3b5925(0x148)](_0x13b6bb,0x0,_0x401daf['n_value'],_0x4a3b22-_0x13b6bb)),_0x3d1e24<_0x13b6bb?(_0x1bf2d5=_0x259425[_0x3b5925(0x132)](),_0x40be41=_0x259425[_0x3b5925(0x148)](_0x3d1e24,0x0,_0x4f2627[_0x3b5925(0x12c)])):(_0x1bf2d5=_0x259425['new_sub_num'](_0x3d1e24-_0x13b6bb,0x0,_0x4f2627['n_value']),_0x40be41=_0x259425[_0x3b5925(0x148)](_0x13b6bb,0x0,_0x4f2627[_0x3b5925(0x12c)],_0x3d1e24-_0x13b6bb)),_0x259425[_0x3b5925(0x130)](_0x3dd737),_0x259425[_0x3b5925(0x130)](_0x47ba00),_0x259425[_0x3b5925(0x130)](_0x1bf2d5),_0x259425['_bc_rm_leading_zeros'](_0x40be41),_0x2a5ce7=_0x259425['bc_is_zero'](_0x3dd737)||_0x259425[_0x3b5925(0x14c)](_0x1bf2d5),_0x32461f=_0x259425[_0x3b5925(0x132)](),_0x3de2ea=_0x259425[_0x3b5925(0x132)](),_0x32461f=_0x259425[_0x3b5925(0x168)](_0x3dd737,_0x47ba00,0x0),_0x29775a=_0x32461f['n_len'],_0x3de2ea=_0x259425[_0x3b5925(0x168)](_0x40be41,_0x1bf2d5,0x0),_0x244eb9=_0x3de2ea[_0x3b5925(0x153)],_0x2a5ce7?_0x437abd=_0x259425[_0x3b5925(0x132)]():_0x437abd=_0x259425[_0x3b5925(0x166)](_0x3dd737,_0x3dd737[_0x3b5925(0x153)],_0x1bf2d5,_0x1bf2d5['n_len'],0x0),_0x259425[_0x3b5925(0x14c)](_0x32461f)||_0x259425[_0x3b5925(0x14c)](_0x3de2ea)?_0x1bdccf=_0x259425['bc_init_num']():_0x1bdccf=_0x259425[_0x3b5925(0x166)](_0x32461f,_0x29775a,_0x3de2ea,_0x244eb9,0x0),_0x259425[_0x3b5925(0x14c)](_0x47ba00)||_0x259425[_0x3b5925(0x14c)](_0x40be41)?_0x20a128=_0x259425[_0x3b5925(0x132)]():_0x20a128=_0x259425[_0x3b5925(0x166)](_0x47ba00,_0x47ba00[_0x3b5925(0x153)],_0x40be41,_0x40be41[_0x3b5925(0x153)],0x0),_0x4d9198=_0x4a3b22+_0x3d1e24+0x1,_0xfe74fe=_0x259425['bc_new_num'](_0x4d9198,0x0),!_0x2a5ce7&&(_0x259425[_0x3b5925(0x13a)](_0xfe74fe,_0x437abd,0x2*_0x13b6bb,0x0),_0x259425[_0x3b5925(0x13a)](_0xfe74fe,_0x437abd,_0x13b6bb,0x0)),_0x259425[_0x3b5925(0x13a)](_0xfe74fe,_0x20a128,_0x13b6bb,0x0),_0x259425[_0x3b5925(0x13a)](_0xfe74fe,_0x20a128,0x0,0x0),_0x259425[_0x3b5925(0x13a)](_0xfe74fe,_0x1bdccf,_0x13b6bb,_0x32461f[_0x3b5925(0x16d)]!==_0x3de2ea[_0x3b5925(0x16d)]),_0xfe74fe;},'_bc_do_compare':function(_0x5f1b75,_0x32d216,_0x12ea39,_0x264c4b){const _0x49e824=_0x2f11;let _0x5855fa,_0x6673e7,_0xb96544;if(_0x12ea39&&_0x5f1b75[_0x49e824(0x16d)]!==_0x32d216[_0x49e824(0x16d)])return _0x5f1b75[_0x49e824(0x16d)]===_0x259425[_0x49e824(0x16c)]?0x1:-0x1;if(_0x5f1b75[_0x49e824(0x153)]!==_0x32d216[_0x49e824(0x153)])return _0x5f1b75[_0x49e824(0x153)]>_0x32d216[_0x49e824(0x153)]?!_0x12ea39||_0x5f1b75[_0x49e824(0x16d)]===_0x259425['PLUS']?0x1:-0x1:!_0x12ea39||_0x5f1b75[_0x49e824(0x16d)]===_0x259425['PLUS']?-0x1:0x1;_0xb96544=_0x5f1b75[_0x49e824(0x153)]+Math[_0x49e824(0x14d)](_0x5f1b75[_0x49e824(0x15d)],_0x32d216[_0x49e824(0x15d)]),_0x5855fa=0x0,_0x6673e7=0x0;while(_0xb96544>0x0&&_0x5f1b75[_0x49e824(0x12c)][_0x5855fa]===_0x32d216[_0x49e824(0x12c)][_0x6673e7]){_0x5855fa++,_0x6673e7++,_0xb96544--;}if(_0x264c4b&&_0xb96544===0x1&&_0x5f1b75['n_scale']===_0x32d216[_0x49e824(0x15d)])return 0x0;if(_0xb96544!==0x0)return _0x5f1b75[_0x49e824(0x12c)][_0x5855fa]>_0x32d216[_0x49e824(0x12c)][_0x6673e7]?!_0x12ea39||_0x5f1b75[_0x49e824(0x16d)]===_0x259425[_0x49e824(0x16c)]?0x1:-0x1:!_0x12ea39||_0x5f1b75[_0x49e824(0x16d)]===_0x259425['PLUS']?-0x1:0x1;if(_0x5f1b75[_0x49e824(0x15d)]!==_0x32d216[_0x49e824(0x15d)]){if(_0x5f1b75[_0x49e824(0x15d)]>_0x32d216[_0x49e824(0x15d)])for(_0xb96544=_0x5f1b75[_0x49e824(0x15d)]-_0x32d216['n_scale'];_0xb96544>0x0;_0xb96544--){if(_0x5f1b75['n_value'][_0x5855fa++]!==0x0)return!_0x12ea39||_0x5f1b75[_0x49e824(0x16d)]===_0x259425['PLUS']?0x1:-0x1;}else for(_0xb96544=_0x32d216[_0x49e824(0x15d)]-_0x5f1b75['n_scale'];_0xb96544>0x0;_0xb96544--){if(_0x32d216[_0x49e824(0x12c)][_0x6673e7++]!==0x0)return!_0x12ea39||_0x5f1b75[_0x49e824(0x16d)]===_0x259425[_0x49e824(0x16c)]?-0x1:0x1;}}return 0x0;},'bc_sub':function(_0x3b69a8,_0x48341e,_0x4c1dec){const _0x26cc0e=_0x2f11;let _0x4377da,_0x2b5b43,_0x53c676;if(_0x3b69a8[_0x26cc0e(0x16d)]!==_0x48341e[_0x26cc0e(0x16d)])_0x4377da=_0x259425[_0x26cc0e(0x13d)](_0x3b69a8,_0x48341e,_0x4c1dec),_0x4377da[_0x26cc0e(0x16d)]=_0x3b69a8[_0x26cc0e(0x16d)];else{_0x2b5b43=_0x259425[_0x26cc0e(0x16a)](_0x3b69a8,_0x48341e,![],![]);switch(_0x2b5b43){case-0x1:_0x4377da=_0x259425['_bc_do_sub'](_0x48341e,_0x3b69a8,_0x4c1dec),_0x4377da[_0x26cc0e(0x16d)]=_0x48341e[_0x26cc0e(0x16d)]===_0x259425[_0x26cc0e(0x16c)]?_0x259425[_0x26cc0e(0x156)]:_0x259425[_0x26cc0e(0x16c)];break;case 0x0:_0x53c676=_0x259425[_0x26cc0e(0x12a)](_0x4c1dec,_0x259425['MAX'](_0x3b69a8['n_scale'],_0x48341e[_0x26cc0e(0x15d)])),_0x4377da=_0x259425[_0x26cc0e(0x162)](0x1,_0x53c676),_0x259425['memset'](_0x4377da[_0x26cc0e(0x12c)],0x0,0x0,_0x53c676+0x1);break;case 0x1:_0x4377da=_0x259425[_0x26cc0e(0x15c)](_0x3b69a8,_0x48341e,_0x4c1dec),_0x4377da[_0x26cc0e(0x16d)]=_0x3b69a8[_0x26cc0e(0x16d)];break;}}return _0x4377da;},'_bc_do_add':function(_0x5d2174,_0x1a8208,_0xd50138){const _0x561971=_0x2f11;let _0x23e603,_0xdddca7,_0x58316a,_0x475ebe,_0x3944ba,_0x2e4e69,_0x4d0d48,_0x570053,_0x2ac838,_0x507aa7;_0xdddca7=_0x259425[_0x561971(0x12a)](_0x5d2174['n_scale'],_0x1a8208[_0x561971(0x15d)]),_0x58316a=_0x259425[_0x561971(0x12a)](_0x5d2174[_0x561971(0x153)],_0x1a8208['n_len'])+0x1,_0x23e603=_0x259425[_0x561971(0x162)](_0x58316a,_0x259425[_0x561971(0x12a)](_0xdddca7,_0xd50138)),_0x570053=_0x5d2174[_0x561971(0x15d)],_0x2ac838=_0x1a8208['n_scale'],_0x475ebe=_0x5d2174[_0x561971(0x153)]+_0x570053-0x1,_0x3944ba=_0x1a8208[_0x561971(0x153)]+_0x2ac838-0x1,_0x2e4e69=_0xdddca7+_0x58316a-0x1;if(_0x570053!==_0x2ac838){if(_0x570053>_0x2ac838)while(_0x570053>_0x2ac838){_0x23e603[_0x561971(0x12c)][_0x2e4e69--]=_0x5d2174[_0x561971(0x12c)][_0x475ebe--],_0x570053--;}else while(_0x2ac838>_0x570053){_0x23e603[_0x561971(0x12c)][_0x2e4e69--]=_0x1a8208[_0x561971(0x12c)][_0x3944ba--],_0x2ac838--;}}_0x570053+=_0x5d2174[_0x561971(0x153)],_0x2ac838+=_0x1a8208[_0x561971(0x153)],_0x4d0d48=0x0;while(_0x570053>0x0&&_0x2ac838>0x0){_0x507aa7=_0x5d2174[_0x561971(0x12c)][_0x475ebe--]+_0x1a8208[_0x561971(0x12c)][_0x3944ba--]+_0x4d0d48,_0x507aa7>=_0x259425[_0x561971(0x158)]?(_0x4d0d48=0x1,_0x507aa7-=_0x259425['BASE']):_0x4d0d48=0x0,_0x23e603['n_value'][_0x2e4e69]=_0x507aa7,_0x2e4e69--,_0x570053--,_0x2ac838--;}if(_0x570053===0x0)while(_0x2ac838-->0x0){_0x507aa7=_0x1a8208[_0x561971(0x12c)][_0x3944ba--]+_0x4d0d48,_0x507aa7>=_0x259425[_0x561971(0x158)]?(_0x4d0d48=0x1,_0x507aa7-=_0x259425[_0x561971(0x158)]):_0x4d0d48=0x0,_0x23e603[_0x561971(0x12c)][_0x2e4e69--]=_0x507aa7;}else while(_0x570053-->0x0){_0x507aa7=_0x5d2174[_0x561971(0x12c)][_0x475ebe--]+_0x4d0d48,_0x507aa7>=_0x259425[_0x561971(0x158)]?(_0x4d0d48=0x1,_0x507aa7-=_0x259425[_0x561971(0x158)]):_0x4d0d48=0x0,_0x23e603[_0x561971(0x12c)][_0x2e4e69--]=_0x507aa7;}return _0x4d0d48===0x1&&(_0x23e603[_0x561971(0x12c)][_0x2e4e69]+=0x1),_0x259425[_0x561971(0x130)](_0x23e603),_0x23e603;},'_bc_do_sub':function(_0x32d1fd,_0x1a0dd5,_0x2ce730){const _0x3157b0=_0x2f11;let _0x47d4dd,_0x2e7c43,_0x286e35,_0x56a06a,_0x30814f,_0x50b3f8,_0xfe905f,_0x1868ff,_0x1ac78a,_0xf94d82,_0x1b30a9;_0x286e35=_0x259425[_0x3157b0(0x12a)](_0x32d1fd[_0x3157b0(0x153)],_0x1a0dd5[_0x3157b0(0x153)]),_0x2e7c43=_0x259425[_0x3157b0(0x12a)](_0x32d1fd[_0x3157b0(0x15d)],_0x1a0dd5[_0x3157b0(0x15d)]),_0x30814f=_0x259425[_0x3157b0(0x157)](_0x32d1fd[_0x3157b0(0x153)],_0x1a0dd5[_0x3157b0(0x153)]),_0x56a06a=_0x259425[_0x3157b0(0x157)](_0x32d1fd[_0x3157b0(0x15d)],_0x1a0dd5[_0x3157b0(0x15d)]),_0x47d4dd=_0x259425[_0x3157b0(0x162)](_0x286e35,_0x259425[_0x3157b0(0x12a)](_0x2e7c43,_0x2ce730)),_0x50b3f8=_0x32d1fd['n_len']+_0x32d1fd[_0x3157b0(0x15d)]-0x1,_0xfe905f=_0x1a0dd5[_0x3157b0(0x153)]+_0x1a0dd5['n_scale']-0x1,_0x1868ff=_0x286e35+_0x2e7c43-0x1,_0x1ac78a=0x0;if(_0x32d1fd[_0x3157b0(0x15d)]!==_0x56a06a)for(_0xf94d82=_0x32d1fd[_0x3157b0(0x15d)]-_0x56a06a;_0xf94d82>0x0;_0xf94d82--){_0x47d4dd[_0x3157b0(0x12c)][_0x1868ff--]=_0x32d1fd[_0x3157b0(0x12c)][_0x50b3f8--];}else for(_0xf94d82=_0x1a0dd5['n_scale']-_0x56a06a;_0xf94d82>0x0;_0xf94d82--){_0x1b30a9=0x0-_0x1a0dd5[_0x3157b0(0x12c)][_0xfe905f--]-_0x1ac78a,_0x1b30a9<0x0?(_0x1b30a9+=_0x259425[_0x3157b0(0x158)],_0x1ac78a=0x1):_0x1ac78a=0x0,_0x47d4dd[_0x3157b0(0x12c)][_0x1868ff--]=_0x1b30a9;}for(_0xf94d82=0x0;_0xf94d82<_0x30814f+_0x56a06a;_0xf94d82++){_0x1b30a9=_0x32d1fd[_0x3157b0(0x12c)][_0x50b3f8--]-_0x1a0dd5['n_value'][_0xfe905f--]-_0x1ac78a,_0x1b30a9<0x0?(_0x1b30a9+=_0x259425[_0x3157b0(0x158)],_0x1ac78a=0x1):_0x1ac78a=0x0,_0x47d4dd[_0x3157b0(0x12c)][_0x1868ff--]=_0x1b30a9;}if(_0x286e35!==_0x30814f)for(_0xf94d82=_0x286e35-_0x30814f;_0xf94d82>0x0;_0xf94d82--){_0x1b30a9=_0x32d1fd[_0x3157b0(0x12c)][_0x50b3f8--]-_0x1ac78a,_0x1b30a9<0x0?(_0x1b30a9+=_0x259425[_0x3157b0(0x158)],_0x1ac78a=0x1):_0x1ac78a=0x0,_0x47d4dd[_0x3157b0(0x12c)][_0x1868ff--]=_0x1b30a9;}return _0x259425['_bc_rm_leading_zeros'](_0x47d4dd),_0x47d4dd;},'bc_new_num':function(_0x55603e,_0x16e90b){const _0x456b8e=_0x2f11;let _0x21d351;return _0x21d351=new _0x259425[(_0x456b8e(0x16f))](),_0x21d351[_0x456b8e(0x16d)]=_0x259425['PLUS'],_0x21d351['n_len']=_0x55603e,_0x21d351[_0x456b8e(0x15d)]=_0x16e90b,_0x21d351[_0x456b8e(0x12c)]=_0x259425[_0x456b8e(0x144)](0x1,_0x55603e+_0x16e90b,0x0),_0x259425[_0x456b8e(0x142)](_0x21d351[_0x456b8e(0x12c)],0x0,0x0,_0x55603e+_0x16e90b),_0x21d351;},'safe_emalloc':function(_0x17cca8,_0x42c4ed,_0x520591){return Array(_0x17cca8*_0x42c4ed+_0x520591);},'bc_init_num':function(){const _0x40f599=_0x2f11;return new _0x259425[(_0x40f599(0x162))](0x1,0x0);},'_bc_rm_leading_zeros':function(_0x835204){const _0x32719d=_0x2f11;while(_0x835204[_0x32719d(0x12c)][0x0]===0x0&&_0x835204[_0x32719d(0x153)]>0x1){_0x835204['n_value'][_0x32719d(0x16b)](),_0x835204[_0x32719d(0x153)]--;}},'php_str2num':function(_0x3491f7){const _0xe2e127=_0x2f11;let _0x299260;return _0x299260=_0x3491f7[_0xe2e127(0x135)]('.'),_0x299260===-0x1?_0x259425['bc_str2num'](_0x3491f7,0x0):_0x259425[_0xe2e127(0x155)](_0x3491f7,_0x3491f7[_0xe2e127(0x145)]-_0x299260);},'CH_VAL':function(_0x25ca16){return _0x25ca16-'0';},'BCD_CHAR':function(_0x4a97c6){return _0x4a97c6+'0';},'isdigit':function(_0x3b29e7){return isNaN(parseInt(_0x3b29e7,0xa));},'bc_str2num':function(_0x237e8e,_0x251106){const _0xf66b6d=_0x2f11;let _0x982458,_0x3f2f35,_0x118901,_0x5d3573,_0x5f055d,_0x4178d6,_0x46d9fc;_0x982458=_0x237e8e[_0xf66b6d(0x147)](''),_0x118901=0x0,_0x5d3573=0x0,_0x5f055d=0x0,_0x4178d6=![];(_0x982458[_0x118901]==='+'||_0x982458[_0x118901]==='-')&&_0x118901++;while(_0x982458[_0x118901]==='0'){_0x118901++;}while(_0x982458[_0x118901]%0x1===0x0){_0x118901++,_0x5d3573++;}_0x982458[_0x118901]==='.'&&_0x118901++;while(_0x982458[_0x118901]%0x1===0x0){_0x118901++,_0x5f055d++;}if(_0x982458[_0x118901]||_0x5d3573+_0x5f055d===0x0)return _0x259425[_0xf66b6d(0x132)]();_0x5f055d=_0x259425[_0xf66b6d(0x157)](_0x5f055d,_0x251106);_0x5d3573===0x0&&(_0x4178d6=!![],_0x5d3573=0x1);_0x3f2f35=_0x259425[_0xf66b6d(0x162)](_0x5d3573,_0x5f055d),_0x118901=0x0;_0x982458[_0x118901]==='-'?(_0x3f2f35[_0xf66b6d(0x16d)]=_0x259425['MINUS'],_0x118901++):(_0x3f2f35[_0xf66b6d(0x16d)]=_0x259425['PLUS'],_0x982458[_0x118901]==='+'&&_0x118901++);while(_0x982458[_0x118901]==='0'){_0x118901++;}_0x46d9fc=0x0;_0x4178d6&&(_0x3f2f35[_0xf66b6d(0x12c)][_0x46d9fc++]=0x0,_0x5d3573=0x0);for(;_0x5d3573>0x0;_0x5d3573--){_0x3f2f35[_0xf66b6d(0x12c)][_0x46d9fc++]=_0x259425[_0xf66b6d(0x15f)](_0x982458[_0x118901++]);}if(_0x5f055d>0x0){_0x118901++;for(;_0x5f055d>0x0;_0x5f055d--){_0x3f2f35[_0xf66b6d(0x12c)][_0x46d9fc++]=_0x259425['CH_VAL'](_0x982458[_0x118901++]);}}return _0x3f2f35;},'cint':function(_0x103a49){const _0x172702=_0x2f11;typeof _0x103a49===_0x172702(0x12f)&&(_0x103a49=0x0);let _0xa9b8a9=parseInt(_0x103a49,0xa);return isNaN(_0xa9b8a9)&&(_0xa9b8a9=0x0),_0xa9b8a9;},'MIN':function(_0x50bcbb,_0x2c7ff8){return _0x50bcbb>_0x2c7ff8?_0x2c7ff8:_0x50bcbb;},'MAX':function(_0x28ff1b,_0x13e468){return _0x28ff1b>_0x13e468?_0x28ff1b:_0x13e468;},'ODD':function(_0x55e801){return _0x55e801&0x1;},'memset':function(_0x591f85,_0x3b378c,_0xcebf82,_0x1128d3){let _0x4290a5;for(_0x4290a5=0x0;_0x4290a5<_0x1128d3;_0x4290a5++){_0x591f85[_0x3b378c+_0x4290a5]=_0xcebf82;}},'memcpy':function(_0x2d8b44,_0x2b0ce0,_0x5ed5b0,_0x132339,_0x2058bb){let _0x3950cf;for(_0x3950cf=0x0;_0x3950cf<_0x2058bb;_0x3950cf++){_0x2d8b44[_0x2b0ce0+_0x3950cf]=_0x5ed5b0[_0x132339+_0x3950cf];}return!![];},'bc_is_zero':function(_0x58fa9f){const _0x37f2d3=_0x2f11;let _0x26be8e,_0x2d882e;_0x26be8e=_0x58fa9f['n_len']+_0x58fa9f['n_scale'],_0x2d882e=0x0;while(_0x26be8e>0x0&&_0x58fa9f[_0x37f2d3(0x12c)][_0x2d882e++]===0x0){_0x26be8e--;}return _0x26be8e!==0x0?![]:!![];},'bc_out_of_memory':function(){const _0x3041cd=_0x2f11;throw new Error(_0x3041cd(0x12e));}};return _0x259425;},bcdiv=(_0x191aa0,_0x3012c0,_0x1411aa)=>{const _0x2692b7=_0x2f11,_0xb362e9=_bc();let _0x27879f,_0x4507fd,_0x1faed6;typeof _0x1411aa===_0x2692b7(0x12f)&&(_0x1411aa=_0xb362e9[_0x2692b7(0x14a)]);_0x1411aa=_0x1411aa<0x0?0x0:_0x1411aa,_0x27879f=_0xb362e9['bc_init_num'](),_0x4507fd=_0xb362e9[_0x2692b7(0x132)](),_0x1faed6=_0xb362e9[_0x2692b7(0x132)](),_0x27879f=_0xb362e9[_0x2692b7(0x15b)](_0x191aa0[_0x2692b7(0x16e)]()),_0x4507fd=_0xb362e9['php_str2num'](_0x3012c0[_0x2692b7(0x16e)]()),_0x1faed6=_0xb362e9[_0x2692b7(0x13c)](_0x27879f,_0x4507fd,_0x1411aa);if(_0x1faed6===-0x1)throw new Error(0xb,'(BC)\x20Division\x20by\x20zero');return _0x1faed6['n_scale']>_0x1411aa&&(_0x1faed6[_0x2692b7(0x15d)]=_0x1411aa),_0x1faed6[_0x2692b7(0x16e)]();},bcsub=(_0x2d51d0,_0x4f70fa,_0x1a9e3c)=>{const _0x54b27a=_0x2f11,_0x4de44f=_bc();let _0x42518c,_0x1110b7,_0x490058;return typeof _0x1a9e3c===_0x54b27a(0x12f)&&(_0x1a9e3c=_0x4de44f[_0x54b27a(0x14a)]),_0x1a9e3c=_0x1a9e3c<0x0?0x0:_0x1a9e3c,_0x42518c=_0x4de44f[_0x54b27a(0x132)](),_0x1110b7=_0x4de44f[_0x54b27a(0x132)](),_0x490058=_0x4de44f['bc_init_num'](),_0x42518c=_0x4de44f[_0x54b27a(0x15b)](_0x2d51d0[_0x54b27a(0x16e)]()),_0x1110b7=_0x4de44f[_0x54b27a(0x15b)](_0x4f70fa['toString']()),_0x490058=_0x4de44f[_0x54b27a(0x168)](_0x42518c,_0x1110b7,_0x1a9e3c),_0x490058['n_scale']>_0x1a9e3c&&(_0x490058[_0x54b27a(0x15d)]=_0x1a9e3c),_0x490058[_0x54b27a(0x16e)]();},bcmul=(_0x4a1f21,_0x4b61ba,_0x5b0078)=>{const _0x4cfcc8=_0x2f11,_0x1e3e18=_bc();let _0x1dc0e0,_0x4ce4c6,_0x402da4;return typeof _0x5b0078==='undefined'&&(_0x5b0078=_0x1e3e18[_0x4cfcc8(0x14a)]),_0x5b0078=_0x5b0078<0x0?0x0:_0x5b0078,_0x1dc0e0=_0x1e3e18['bc_init_num'](),_0x4ce4c6=_0x1e3e18['bc_init_num'](),_0x402da4=_0x1e3e18[_0x4cfcc8(0x132)](),_0x1dc0e0=_0x1e3e18[_0x4cfcc8(0x15b)](_0x4a1f21['toString']()),_0x4ce4c6=_0x1e3e18['php_str2num'](_0x4b61ba['toString']()),_0x402da4=_0x1e3e18[_0x4cfcc8(0x167)](_0x1dc0e0,_0x4ce4c6,_0x5b0078),_0x402da4[_0x4cfcc8(0x15d)]>_0x5b0078&&(_0x402da4[_0x4cfcc8(0x15d)]=_0x5b0078),_0x402da4[_0x4cfcc8(0x16e)]();};
+const _bc = () => {
+  // eslint-disable-line camelcase
+  //  discuss at: https://locutus.io/php/_helpers/_bc
+  // original by: lmeyrick (https://sourceforge.net/projects/bcmath-js/)
+  // improved by: Brett Zamir (https://brett-zamir.me)
+  //   example 1: var $bc = _bc()
+  //   example 1: var $result = $bc.PLUS
+  //   returns 1: '+'
+
+  /**
+   * BC Math Library for Javascript
+   * Ported from the PHP5 bcmath extension source code,
+   * which uses the Libbcmath package...
+   *    Copyright (C) 1991, 1992, 1993, 1994, 1997 Free Software Foundation, Inc.
+   *    Copyright (C) 2000 Philip A. Nelson
+   *     The Free Software Foundation, Inc.
+   *     59 Temple Place, Suite 330
+   *     Boston, MA 02111-1307 USA.
+   *      e-mail:  philnelson@acm.org
+   *     us-mail:  Philip A. Nelson
+   *               Computer Science Department, 9062
+   *               Western Washington University
+   *               Bellingham, WA 98226-9062
+   *
+   * bcmath-js homepage:
+   *
+   * This code is covered under the LGPL licence, and can be used however you want :)
+   * Be kind and share any decent code changes.
+   */
+
+  /**
+   * Binary Calculator (BC) Arbitrary Precision Mathematics Lib v0.10  (LGPL)
+   * Copy of Libbcmath included in PHP5 src
+   *
+   * Note: this is just the shared library file and does not include the php-style functions.
+   *       use bcmath{-min}.js for functions like bcadd, bcsub etc.
+   *
+   * Feel free to use how-ever you want, just email any bug-fixes/improvements
+   * to the sourceforge project:
+   *
+   *
+   * Ported from the PHP5 bcmath extension source code,
+   * which uses the Libbcmath package...
+   *    Copyright (C) 1991, 1992, 1993, 1994, 1997 Free Software Foundation, Inc.
+   *    Copyright (C) 2000 Philip A. Nelson
+   *     The Free Software Foundation, Inc.
+   *     59 Temple Place, Suite 330
+   *     Boston, MA 02111-1307 USA.
+   *      e-mail:  philnelson@acm.org
+   *     us-mail:  Philip A. Nelson
+   *               Computer Science Department, 9062
+   *               Western Washington University
+   *               Bellingham, WA 98226-9062
+   */
+
+  var Libbcmath = {
+    PLUS: "+",
+    MINUS: "-",
+    BASE: 10,
+    // must be 10 (for now)
+    scale: 0,
+    // default scale
+    /**
+     * Basic number structure
+     */
+    bc_num: function () {
+      this.n_sign = null; // sign
+      this.n_len = null; // (int) The number of digits before the decimal point.
+      this.n_scale = null; // (int) The number of digits after the decimal point.
+      // this.n_refs = null; // (int) The number of pointers to this number.
+      // this.n_text = null; // ?? Linked list for available list.
+      this.n_value = null; // array as value, where 1.23 = [1,2,3]
+      this.toString = function () {
+        let r, tmp;
+        tmp = this.n_value.join("");
+
+        // add minus sign (if applicable) then add the integer part
+        r =
+          (this.n_sign === Libbcmath.PLUS ? "" : this.n_sign) +
+          tmp.substr(0, this.n_len);
+
+        // if decimal places, add a . and the decimal part
+        if (this.n_scale > 0) {
+          r += "." + tmp.substr(this.n_len, this.n_scale);
+        }
+        return r;
+      };
+    },
+
+    /**
+     * Base add function
+     *
+     //  Here is the full add routine that takes care of negative numbers.
+     //  N1 is added to N2 and the result placed into RESULT.  SCALE_MIN
+     //  is the minimum scale for the result.
+     *
+     * @param {bc_num} n1
+     * @param {bc_num} n2
+     * @param {int} scaleMin
+     * @return bc_num
+     */
+    bc_add: function (n1, n2, scaleMin) {
+      let sum, cmpRes, resScale;
+
+      if (n1.n_sign === n2.n_sign) {
+        sum = Libbcmath._bc_do_add(n1, n2, scaleMin);
+        sum.n_sign = n1.n_sign;
+      } else {
+        // subtraction must be done.
+        cmpRes = Libbcmath._bc_do_compare(n1, n2, false, false); // Compare magnitudes.
+        switch (cmpRes) {
+          case -1:
+            // n1 is less than n2, subtract n1 from n2.
+            sum = Libbcmath._bc_do_sub(n2, n1, scaleMin);
+            sum.n_sign = n2.n_sign;
+            break;
+
+          case 0:
+            // They are equal! return zero with the correct scale!
+            resScale = Libbcmath.MAX(
+              scaleMin,
+              Libbcmath.MAX(n1.n_scale, n2.n_scale)
+            );
+            sum = Libbcmath.bc_new_num(1, resScale);
+            Libbcmath.memset(sum.n_value, 0, 0, resScale + 1);
+            break;
+
+          case 1:
+            // n2 is less than n1, subtract n2 from n1.
+            sum = Libbcmath._bc_do_sub(n1, n2, scaleMin);
+            sum.n_sign = n1.n_sign;
+        }
+      }
+      return sum;
+    },
+
+    /**
+     * This is the "user callable" routine to compare numbers N1 and N2.
+     * @param {bc_num} n1
+     * @param {bc_num} n2
+     * @return int -1, 0, 1  (n1 < n2, ===, n1 > n2)
+     */
+    bc_compare: function (n1, n2) {
+      return Libbcmath._bc_do_compare(n1, n2, true, false);
+    },
+
+    _one_mult: function (num, nPtr, size, digit, result, rPtr) {
+      let carry, value; // int
+      let nptr, rptr; // int pointers
+      if (digit === 0) {
+        Libbcmath.memset(result, 0, 0, size); // memset (result, 0, size);
+      } else {
+        if (digit === 1) {
+          Libbcmath.memcpy(result, rPtr, num, nPtr, size); // memcpy (result, num, size);
+        } else {
+          // Initialize
+          nptr = nPtr + size - 1; // nptr = (unsigned char *) (num+size-1);
+          rptr = rPtr + size - 1; // rptr = (unsigned char *) (result+size-1);
+          carry = 0;
+
+          while (size-- > 0) {
+            value = num[nptr--] * digit + carry; // value = *nptr-- * digit + carry;
+            result[rptr--] = value % Libbcmath.BASE; // @CHECK cint //*rptr-- = value % BASE;
+            carry = Math.floor(value / Libbcmath.BASE); // @CHECK cint //carry = value / BASE;
+          }
+
+          if (carry !== 0) {
+            result[rptr] = carry;
+          }
+        }
+      }
+    },
+
+    bc_divide: function (n1, n2, scale) {
+      // var quot // bc_num return
+      let qval; // bc_num
+      let num1, num2; // string
+      let ptr1, ptr2, n2ptr, qptr; // int pointers
+      let scale1, val; // int
+      let len1, len2, scale2, qdigits, extra, count; // int
+      let qdig, qguess, borrow, carry; // int
+      let mval; // string
+      let zero; // char
+      let norm; // int
+      // var ptrs // return object from one_mul
+      // Test for divide by zero. (return failure)
+      if (Libbcmath.bc_is_zero(n2)) {
+        return -1;
+      }
+
+      // Test for zero divide by anything (return zero)
+      if (Libbcmath.bc_is_zero(n1)) {
+        return Libbcmath.bc_new_num(1, scale);
+      }
+
+      /* Test for n1 equals n2 (return 1 as n1 nor n2 are zero)
+        if (Libbcmath.bc_compare(n1, n2, Libbcmath.MAX(n1.n_scale, n2.n_scale)) === 0) {
+          quot=Libbcmath.bc_new_num(1, scale);
+          quot.n_value[0] = 1;
+          return quot;
+        }
+      */
+
+      // Test for divide by 1.  If it is we must truncate.
+      // @todo: check where scale > 0 too.. can't see why not
+      // (ie bc_is_zero - add bc_is_one function)
+      if (n2.n_scale === 0) {
+        if (n2.n_len === 1 && n2.n_value[0] === 1) {
+          qval = Libbcmath.bc_new_num(n1.n_len, scale); // qval = bc_new_num (n1->n_len, scale);
+          qval.n_sign =
+            n1.n_sign === n2.n_sign ? Libbcmath.PLUS : Libbcmath.MINUS;
+          // memset (&qval->n_value[n1->n_len],0,scale):
+          Libbcmath.memset(qval.n_value, n1.n_len, 0, scale);
+          // memcpy (qval->n_value, n1->n_value, n1->n_len + MIN(n1->n_scale,scale)):
+          Libbcmath.memcpy(
+            qval.n_value,
+            0,
+            n1.n_value,
+            0,
+            n1.n_len + Libbcmath.MIN(n1.n_scale, scale)
+          );
+          // can we return here? not in c src, but can't see why-not.
+          // return qval;
+        }
+      }
+
+      /* Set up the divide.  Move the decimal point on n1 by n2's scale.
+       Remember, zeros on the end of num2 are wasted effort for dividing. */
+      scale2 = n2.n_scale; // scale2 = n2->n_scale;
+      n2ptr = n2.n_len + scale2 - 1; // n2ptr = (unsigned char *) n2.n_value+n2.n_len+scale2-1;
+      while (scale2 > 0 && n2.n_value[n2ptr--] === 0) {
+        scale2--;
+      }
+
+      len1 = n1.n_len + scale2;
+      scale1 = n1.n_scale - scale2;
+      if (scale1 < scale) {
+        extra = scale - scale1;
+      } else {
+        extra = 0;
+      }
+
+      // num1 = (unsigned char *) safe_emalloc (1, n1.n_len+n1.n_scale, extra+2):
+      num1 = Libbcmath.safe_emalloc(1, n1.n_len + n1.n_scale, extra + 2);
+      if (num1 === null) {
+        Libbcmath.bc_out_of_memory();
+      }
+      // memset (num1, 0, n1->n_len+n1->n_scale+extra+2):
+      Libbcmath.memset(num1, 0, 0, n1.n_len + n1.n_scale + extra + 2);
+      // memcpy (num1+1, n1.n_value, n1.n_len+n1.n_scale):
+      Libbcmath.memcpy(num1, 1, n1.n_value, 0, n1.n_len + n1.n_scale);
+      // len2 = n2->n_len + scale2:
+      len2 = n2.n_len + scale2;
+      // num2 = (unsigned char *) safe_emalloc (1, len2, 1):
+      num2 = Libbcmath.safe_emalloc(1, len2, 1);
+      if (num2 === null) {
+        Libbcmath.bc_out_of_memory();
+      }
+      // memcpy (num2, n2.n_value, len2):
+      Libbcmath.memcpy(num2, 0, n2.n_value, 0, len2);
+      // *(num2+len2) = 0:
+      num2[len2] = 0;
+      // n2ptr = num2:
+      n2ptr = 0;
+      // while (*n2ptr === 0):
+      while (num2[n2ptr] === 0) {
+        n2ptr++;
+        len2--;
+      }
+
+      // Calculate the number of quotient digits.
+      if (len2 > len1 + scale) {
+        qdigits = scale + 1;
+        zero = true;
+      } else {
+        zero = false;
+        if (len2 > len1) {
+          qdigits = scale + 1; // One for the zero integer part.
+        } else {
+          qdigits = len1 - len2 + scale + 1;
+        }
+      }
+
+      // Allocate and zero the storage for the quotient.
+      // qval = bc_new_num (qdigits-scale,scale);
+      qval = Libbcmath.bc_new_num(qdigits - scale, scale);
+      // memset (qval->n_value, 0, qdigits);
+      Libbcmath.memset(qval.n_value, 0, 0, qdigits);
+      // Allocate storage for the temporary storage mval.
+      // mval = (unsigned char *) safe_emalloc (1, len2, 1);
+      mval = Libbcmath.safe_emalloc(1, len2, 1);
+      if (mval === null) {
+        Libbcmath.bc_out_of_memory();
+      }
+
+      // Now for the full divide algorithm.
+      if (!zero) {
+        // Normalize
+        // norm = Libbcmath.cint(10 / (Libbcmath.cint(n2.n_value[n2ptr]) + 1));
+        // norm =  10 / ((int)*n2ptr + 1)
+        norm = Math.floor(10 / (n2.n_value[n2ptr] + 1)); // norm =  10 / ((int)*n2ptr + 1);
+        if (norm !== 1) {
+          // Libbcmath._one_mult(num1, len1+scale1+extra+1, norm, num1);
+          Libbcmath._one_mult(
+            num1,
+            0,
+            len1 + scale1 + extra + 1,
+            norm,
+            num1,
+            0
+          );
+          // Libbcmath._one_mult(n2ptr, len2, norm, n2ptr);
+          Libbcmath._one_mult(n2.n_value, n2ptr, len2, norm, n2.n_value, n2ptr);
+          // @todo: Check: Is the pointer affected by the call? if so,
+          // maybe need to adjust points on return?
+        }
+
+        // Initialize divide loop.
+        qdig = 0;
+        if (len2 > len1) {
+          qptr = len2 - len1; // qptr = (unsigned char *) qval.n_value+len2-len1;
+        } else {
+          qptr = 0; // qptr = (unsigned char *) qval.n_value;
+        }
+
+        // Loop
+        while (qdig <= len1 + scale - len2) {
+          // Calculate the quotient digit guess.
+          if (n2.n_value[n2ptr] === num1[qdig]) {
+            qguess = 9;
+          } else {
+            qguess = Math.floor(
+              (num1[qdig] * 10 + num1[qdig + 1]) / n2.n_value[n2ptr]
+            );
+          }
+          // Test qguess.
+
+          if (
+            n2.n_value[n2ptr + 1] * qguess >
+            (num1[qdig] * 10 + num1[qdig + 1] - n2.n_value[n2ptr] * qguess) *
+              10 +
+              num1[qdig + 2]
+          ) {
+            qguess--;
+            // And again.
+            if (
+              n2.n_value[n2ptr + 1] * qguess >
+              (num1[qdig] * 10 + num1[qdig + 1] - n2.n_value[n2ptr] * qguess) *
+                10 +
+                num1[qdig + 2]
+            ) {
+              qguess--;
+            }
+          }
+
+          // Multiply and subtract.
+          borrow = 0;
+          if (qguess !== 0) {
+            mval[0] = 0; //* mval = 0; // @CHECK is this to fix ptr2 < 0?
+            // _one_mult (n2ptr, len2, qguess, mval+1); // @CHECK
+            Libbcmath._one_mult(n2.n_value, n2ptr, len2, qguess, mval, 1);
+            ptr1 = qdig + len2; // (unsigned char *) num1+qdig+len2;
+            ptr2 = len2; // (unsigned char *) mval+len2;
+            // @todo: CHECK: Does a negative pointer return null?
+            // ptr2 can be < 0 here as ptr1 = len2, thus count < len2+1 will always fail ?
+            for (count = 0; count < len2 + 1; count++) {
+              if (ptr2 < 0) {
+                // val = Libbcmath.cint(num1[ptr1]) - 0 - borrow;
+                // val = (int) *ptr1 - (int) *ptr2-- - borrow;
+                val = num1[ptr1] - 0 - borrow; // val = (int) *ptr1 - (int) *ptr2-- - borrow;
+              } else {
+                // val = Libbcmath.cint(num1[ptr1]) - Libbcmath.cint(mval[ptr2--]) - borrow;
+                // val = (int) *ptr1 - (int) *ptr2-- - borrow;
+                // val = (int) *ptr1 - (int) *ptr2-- - borrow;
+                val = num1[ptr1] - mval[ptr2--] - borrow;
+              }
+              if (val < 0) {
+                val += 10;
+                borrow = 1;
+              } else {
+                borrow = 0;
+              }
+              num1[ptr1--] = val;
+            }
+          }
+
+          // Test for negative result.
+          if (borrow === 1) {
+            qguess--;
+            ptr1 = qdig + len2; // (unsigned char *) num1+qdig+len2;
+            ptr2 = len2 - 1; // (unsigned char *) n2ptr+len2-1;
+            carry = 0;
+            for (count = 0; count < len2; count++) {
+              if (ptr2 < 0) {
+                // val = Libbcmath.cint(num1[ptr1]) + 0 + carry;
+                // val = (int) *ptr1 + (int) *ptr2-- + carry;
+                // val = (int) *ptr1 + (int) *ptr2-- + carry;
+                val = num1[ptr1] + 0 + carry;
+              } else {
+                // val = Libbcmath.cint(num1[ptr1]) + Libbcmath.cint(n2.n_value[ptr2--]) + carry;
+                // val = (int) *ptr1 + (int) *ptr2-- + carry;
+                // val = (int) *ptr1 + (int) *ptr2-- + carry;
+                val = num1[ptr1] + n2.n_value[ptr2--] + carry;
+              }
+              if (val > 9) {
+                val -= 10;
+                carry = 1;
+              } else {
+                carry = 0;
+              }
+              num1[ptr1--] = val; //* ptr1-- = val;
+            }
+            if (carry === 1) {
+              // num1[ptr1] = Libbcmath.cint((num1[ptr1] + 1) % 10);
+              // *ptr1 = (*ptr1 + 1) % 10; // @CHECK
+              // *ptr1 = (*ptr1 + 1) % 10; // @CHECK
+              num1[ptr1] = (num1[ptr1] + 1) % 10;
+            }
+          }
+
+          // We now know the quotient digit.
+          qval.n_value[qptr++] = qguess; //* qptr++ =  qguess;
+          qdig++;
+        }
+      }
+
+      // Clean up and return the number.
+      qval.n_sign = n1.n_sign === n2.n_sign ? Libbcmath.PLUS : Libbcmath.MINUS;
+      if (Libbcmath.bc_is_zero(qval)) {
+        qval.n_sign = Libbcmath.PLUS;
+      }
+      Libbcmath._bc_rm_leading_zeros(qval);
+
+      return qval;
+
+      // return 0;    // Everything is OK.
+    },
+
+    MUL_BASE_DIGITS: 80,
+    MUL_SMALL_DIGITS: 80 / 4,
+    // #define MUL_SMALL_DIGITS mul_base_digits/4
+
+    /* The multiply routine.  N2 times N1 is put int PROD with the scale of
+   the result being MIN(N2 scale+N1 scale, MAX (SCALE, N2 scale, N1 scale)).
+   */
+    /**
+     * @param n1 bc_num
+     * @param n2 bc_num
+     * @param scale [int] optional
+     */
+    bc_multiply: function (n1, n2, scale) {
+      let pval; // bc_num
+      let len1, len2; // int
+      let fullScale, prodScale; // int
+      // Initialize things.
+      len1 = n1.n_len + n1.n_scale;
+      len2 = n2.n_len + n2.n_scale;
+      fullScale = n1.n_scale + n2.n_scale;
+      prodScale = Libbcmath.MIN(
+        fullScale,
+        Libbcmath.MAX(scale, Libbcmath.MAX(n1.n_scale, n2.n_scale))
+      );
+
+      // pval = Libbcmath.bc_init_num(); // allow pass by ref
+      // Do the multiply
+      pval = Libbcmath._bc_rec_mul(n1, len1, n2, len2, fullScale);
+
+      // Assign to prod and clean up the number.
+      pval.n_sign = n1.n_sign === n2.n_sign ? Libbcmath.PLUS : Libbcmath.MINUS;
+      // pval.n_value = pval.nPtr;
+      pval.n_len = len2 + len1 + 1 - fullScale;
+      pval.n_scale = prodScale;
+      Libbcmath._bc_rm_leading_zeros(pval);
+      if (Libbcmath.bc_is_zero(pval)) {
+        pval.n_sign = Libbcmath.PLUS;
+      }
+      // bc_free_num (prod);
+      return pval;
+    },
+
+    new_sub_num: function (length, scale, value, ptr = 0) {
+      const temp = new Libbcmath.bc_num(); // eslint-disable-line new-cap
+      temp.n_sign = Libbcmath.PLUS;
+      temp.n_len = length;
+      temp.n_scale = scale;
+      temp.n_value = Libbcmath.safe_emalloc(1, length + scale, 0);
+      Libbcmath.memcpy(temp.n_value, 0, value, ptr, length + scale);
+      return temp;
+    },
+
+    _bc_simp_mul: function (n1, n1len, n2, n2len, fullScale) {
+      let prod; // bc_num
+      let n1ptr, n2ptr, pvptr; // char *n1ptr, *n2ptr, *pvptr;
+      let n1end, n2end; // char *n1end, *n2end;        // To the end of n1 and n2.
+      let indx, sum, prodlen; // int indx, sum, prodlen;
+      prodlen = n1len + n2len + 1;
+
+      prod = Libbcmath.bc_new_num(prodlen, 0);
+
+      n1end = n1len - 1; // (char *) (n1->n_value + n1len - 1);
+      n2end = n2len - 1; // (char *) (n2->n_value + n2len - 1);
+      pvptr = prodlen - 1; // (char *) ((*prod)->n_value + prodlen - 1);
+      sum = 0;
+
+      // Here is the loop...
+      for (indx = 0; indx < prodlen - 1; indx++) {
+        // (char *) (n1end - MAX(0, indx-n2len+1));
+        n1ptr = n1end - Libbcmath.MAX(0, indx - n2len + 1);
+        // (char *) (n2end - MIN(indx, n2len-1));
+        n2ptr = n2end - Libbcmath.MIN(indx, n2len - 1);
+        while (n1ptr >= 0 && n2ptr <= n2end) {
+          // sum += *n1ptr-- * *n2ptr++;
+          sum += n1.n_value[n1ptr--] * n2.n_value[n2ptr++];
+        }
+        //* pvptr-- = sum % BASE;
+        prod.n_value[pvptr--] = Math.floor(sum % Libbcmath.BASE);
+        sum = Math.floor(sum / Libbcmath.BASE); // sum = sum / BASE;
+      }
+      prod.n_value[pvptr] = sum; //* pvptr = sum;
+      return prod;
+    },
+
+    /* A special adder/subtractor for the recursive divide and conquer
+       multiply algorithm.  Note: if sub is called, accum must
+       be larger that what is being subtracted.  Also, accum and val
+       must have n_scale = 0.  (e.g. they must look like integers. *) */
+    _bc_shift_addsub: function (accum, val, shift, sub) {
+      let accp, valp; // signed char *accp, *valp;
+      let count, carry; // int  count, carry;
+      count = val.n_len;
+      if (val.n_value[0] === 0) {
+        count--;
+      }
+
+      // assert (accum->n_len+accum->n_scale >= shift+count);
+      if (accum.n_len + accum.n_scale < shift + count) {
+        throw new Error("len + scale < shift + count"); // ?? I think that's what assert does :)
+      }
+
+      // Set up pointers and others
+      // (signed char *)(accum->n_value + accum->n_len + accum->n_scale - shift - 1);
+      accp = accum.n_len + accum.n_scale - shift - 1;
+      valp = val.n_len - 1; // (signed char *)(val->n_value + val->n_len - 1);
+      carry = 0;
+      if (sub) {
+        // Subtraction, carry is really borrow.
+        while (count--) {
+          accum.n_value[accp] -= val.n_value[valp--] + carry; //* accp -= *valp-- + carry;
+          if (accum.n_value[accp] < 0) {
+            // if (*accp < 0)
+            carry = 1;
+            accum.n_value[accp--] += Libbcmath.BASE; //* accp-- += BASE;
+          } else {
+            carry = 0;
+            accp--;
+          }
+        }
+        while (carry) {
+          accum.n_value[accp] -= carry; //* accp -= carry;
+          if (accum.n_value[accp] < 0) {
+            // if (*accp < 0)
+            accum.n_value[accp--] += Libbcmath.BASE; //    *accp-- += BASE;
+          } else {
+            carry = 0;
+          }
+        }
+      } else {
+        // Addition
+        while (count--) {
+          accum.n_value[accp] += val.n_value[valp--] + carry; //* accp += *valp-- + carry;
+          if (accum.n_value[accp] > Libbcmath.BASE - 1) {
+            // if (*accp > (BASE-1))
+            carry = 1;
+            accum.n_value[accp--] -= Libbcmath.BASE; //* accp-- -= BASE;
+          } else {
+            carry = 0;
+            accp--;
+          }
+        }
+        while (carry) {
+          accum.n_value[accp] += carry; //* accp += carry;
+          if (accum.n_value[accp] > Libbcmath.BASE - 1) {
+            // if (*accp > (BASE-1))
+            accum.n_value[accp--] -= Libbcmath.BASE; //* accp-- -= BASE;
+          } else {
+            carry = 0;
+          }
+        }
+      }
+      return true; // accum is the pass-by-reference return
+    },
+
+    /* Recursive divide and conquer multiply algorithm.
+       based on
+       Let u = u0 + u1*(b^n)
+       Let v = v0 + v1*(b^n)
+       Then uv = (B^2n+B^n)*u1*v1 + B^n*(u1-u0)*(v0-v1) + (B^n+1)*u0*v0
+
+       B is the base of storage, number of digits in u1,u0 close to equal.
+    */
+    _bc_rec_mul: function (u, ulen, v, vlen, fullScale) {
+      let prod; // @return
+      let u0, u1, v0, v1; // bc_num
+      // var u0len,
+      // var v0len // int
+      let m1, m2, m3, d1, d2; // bc_num
+      let n, prodlen, m1zero; // int
+      let d1len, d2len; // int
+      // Base case?
+      if (
+        ulen + vlen < Libbcmath.MUL_BASE_DIGITS ||
+        ulen < Libbcmath.MUL_SMALL_DIGITS ||
+        vlen < Libbcmath.MUL_SMALL_DIGITS
+      ) {
+        return Libbcmath._bc_simp_mul(u, ulen, v, vlen, fullScale);
+      }
+
+      // Calculate n -- the u and v split point in digits.
+      n = Math.floor((Libbcmath.MAX(ulen, vlen) + 1) / 2);
+
+      // Split u and v.
+      if (ulen < n) {
+        u1 = Libbcmath.bc_init_num(); // u1 = bc_copy_num (BCG(_zero_));
+        u0 = Libbcmath.new_sub_num(ulen, 0, u.n_value);
+      } else {
+        u1 = Libbcmath.new_sub_num(ulen - n, 0, u.n_value);
+        u0 = Libbcmath.new_sub_num(n, 0, u.n_value, ulen - n);
+      }
+      if (vlen < n) {
+        v1 = Libbcmath.bc_init_num(); // bc_copy_num (BCG(_zero_));
+        v0 = Libbcmath.new_sub_num(vlen, 0, v.n_value);
+      } else {
+        v1 = Libbcmath.new_sub_num(vlen - n, 0, v.n_value);
+        v0 = Libbcmath.new_sub_num(n, 0, v.n_value, vlen - n);
+      }
+      Libbcmath._bc_rm_leading_zeros(u1);
+      Libbcmath._bc_rm_leading_zeros(u0);
+      // var u0len = u0.n_len
+      Libbcmath._bc_rm_leading_zeros(v1);
+      Libbcmath._bc_rm_leading_zeros(v0);
+      // var v0len = v0.n_len
+
+      m1zero = Libbcmath.bc_is_zero(u1) || Libbcmath.bc_is_zero(v1);
+
+      // Calculate sub results ...
+      d1 = Libbcmath.bc_init_num(); // needed?
+      d2 = Libbcmath.bc_init_num(); // needed?
+      d1 = Libbcmath.bc_sub(u1, u0, 0);
+      d1len = d1.n_len;
+
+      d2 = Libbcmath.bc_sub(v0, v1, 0);
+      d2len = d2.n_len;
+
+      // Do recursive multiplies and shifted adds.
+      if (m1zero) {
+        m1 = Libbcmath.bc_init_num(); // bc_copy_num (BCG(_zero_));
+      } else {
+        // m1 = Libbcmath.bc_init_num(); //allow pass-by-ref
+        m1 = Libbcmath._bc_rec_mul(u1, u1.n_len, v1, v1.n_len, 0);
+      }
+      if (Libbcmath.bc_is_zero(d1) || Libbcmath.bc_is_zero(d2)) {
+        m2 = Libbcmath.bc_init_num(); // bc_copy_num (BCG(_zero_));
+      } else {
+        // m2 = Libbcmath.bc_init_num(); //allow pass-by-ref
+        m2 = Libbcmath._bc_rec_mul(d1, d1len, d2, d2len, 0);
+      }
+
+      if (Libbcmath.bc_is_zero(u0) || Libbcmath.bc_is_zero(v0)) {
+        m3 = Libbcmath.bc_init_num(); // bc_copy_num (BCG(_zero_));
+      } else {
+        // m3 = Libbcmath.bc_init_num(); //allow pass-by-ref
+        m3 = Libbcmath._bc_rec_mul(u0, u0.n_len, v0, v0.n_len, 0);
+      }
+
+      // Initialize product
+      prodlen = ulen + vlen + 1;
+      prod = Libbcmath.bc_new_num(prodlen, 0);
+
+      if (!m1zero) {
+        Libbcmath._bc_shift_addsub(prod, m1, 2 * n, 0);
+        Libbcmath._bc_shift_addsub(prod, m1, n, 0);
+      }
+      Libbcmath._bc_shift_addsub(prod, m3, n, 0);
+      Libbcmath._bc_shift_addsub(prod, m3, 0, 0);
+      Libbcmath._bc_shift_addsub(prod, m2, n, d1.n_sign !== d2.n_sign);
+
+      return prod;
+      // Now clean up!
+      // bc_free_num (&u1);
+      // bc_free_num (&u0);
+      // bc_free_num (&v1);
+      // bc_free_num (&m1);
+      // bc_free_num (&v0);
+      // bc_free_num (&m2);
+      // bc_free_num (&m3);
+      // bc_free_num (&d1);
+      // bc_free_num (&d2);
+    },
+
+    /**
+     *
+     * @param {bc_num} n1
+     * @param {bc_num} n2
+     * @param {boolean} useSign
+     * @param {boolean} ignoreLast
+     * @return -1, 0, 1 (see bc_compare)
+     */
+    _bc_do_compare: function (n1, n2, useSign, ignoreLast) {
+      let n1ptr, n2ptr; // int
+      let count; // int
+      // First, compare signs.
+      if (useSign && n1.n_sign !== n2.n_sign) {
+        if (n1.n_sign === Libbcmath.PLUS) {
+          return 1; // Positive N1 > Negative N2
+        } else {
+          return -1; // Negative N1 < Positive N1
+        }
+      }
+
+      // Now compare the magnitude.
+      if (n1.n_len !== n2.n_len) {
+        if (n1.n_len > n2.n_len) {
+          // Magnitude of n1 > n2.
+          if (!useSign || n1.n_sign === Libbcmath.PLUS) {
+            return 1;
+          } else {
+            return -1;
+          }
+        } else {
+          // Magnitude of n1 < n2.
+          if (!useSign || n1.n_sign === Libbcmath.PLUS) {
+            return -1;
+          } else {
+            return 1;
+          }
+        }
+      }
+
+      /* If we get here, they have the same number of integer digits.
+     check the integer part and the equal length part of the fraction. */
+      count = n1.n_len + Math.min(n1.n_scale, n2.n_scale);
+      n1ptr = 0;
+      n2ptr = 0;
+
+      while (count > 0 && n1.n_value[n1ptr] === n2.n_value[n2ptr]) {
+        n1ptr++;
+        n2ptr++;
+        count--;
+      }
+
+      if (ignoreLast && count === 1 && n1.n_scale === n2.n_scale) {
+        return 0;
+      }
+
+      if (count !== 0) {
+        if (n1.n_value[n1ptr] > n2.n_value[n2ptr]) {
+          // Magnitude of n1 > n2.
+          if (!useSign || n1.n_sign === Libbcmath.PLUS) {
+            return 1;
+          } else {
+            return -1;
+          }
+        } else {
+          // Magnitude of n1 < n2.
+          if (!useSign || n1.n_sign === Libbcmath.PLUS) {
+            return -1;
+          } else {
+            return 1;
+          }
+        }
+      }
+
+      // They are equal up to the last part of the equal part of the fraction.
+      if (n1.n_scale !== n2.n_scale) {
+        if (n1.n_scale > n2.n_scale) {
+          for (count = n1.n_scale - n2.n_scale; count > 0; count--) {
+            if (n1.n_value[n1ptr++] !== 0) {
+              // Magnitude of n1 > n2.
+              if (!useSign || n1.n_sign === Libbcmath.PLUS) {
+                return 1;
+              } else {
+                return -1;
+              }
+            }
+          }
+        } else {
+          for (count = n2.n_scale - n1.n_scale; count > 0; count--) {
+            if (n2.n_value[n2ptr++] !== 0) {
+              // Magnitude of n1 < n2.
+              if (!useSign || n1.n_sign === Libbcmath.PLUS) {
+                return -1;
+              } else {
+                return 1;
+              }
+            }
+          }
+        }
+      }
+
+      // They must be equal!
+      return 0;
+    },
+
+    /* Here is the full subtract routine that takes care of negative numbers.
+   N2 is subtracted from N1 and the result placed in RESULT.  SCALE_MIN
+   is the minimum scale for the result. */
+    bc_sub: function (n1, n2, scaleMin) {
+      let diff; // bc_num
+      let cmpRes, resScale; // int
+      if (n1.n_sign !== n2.n_sign) {
+        diff = Libbcmath._bc_do_add(n1, n2, scaleMin);
+        diff.n_sign = n1.n_sign;
+      } else {
+        // subtraction must be done.
+        // Compare magnitudes.
+        cmpRes = Libbcmath._bc_do_compare(n1, n2, false, false);
+        switch (cmpRes) {
+          case -1:
+            // n1 is less than n2, subtract n1 from n2.
+            diff = Libbcmath._bc_do_sub(n2, n1, scaleMin);
+            diff.n_sign =
+              n2.n_sign === Libbcmath.PLUS ? Libbcmath.MINUS : Libbcmath.PLUS;
+            break;
+          case 0:
+            // They are equal! return zero!
+            resScale = Libbcmath.MAX(
+              scaleMin,
+              Libbcmath.MAX(n1.n_scale, n2.n_scale)
+            );
+            diff = Libbcmath.bc_new_num(1, resScale);
+            Libbcmath.memset(diff.n_value, 0, 0, resScale + 1);
+            break;
+          case 1:
+            // n2 is less than n1, subtract n2 from n1.
+            diff = Libbcmath._bc_do_sub(n1, n2, scaleMin);
+            diff.n_sign = n1.n_sign;
+            break;
+        }
+      }
+
+      // Clean up and return.
+      // bc_free_num (result);
+      //* result = diff;
+      return diff;
+    },
+
+    _bc_do_add: function (n1, n2, scaleMin) {
+      let sum; // bc_num
+      let sumScale, sumDigits; // int
+      let n1ptr, n2ptr, sumptr; // int
+      let carry, n1bytes, n2bytes; // int
+      let tmp; // int
+
+      // Prepare sum.
+      sumScale = Libbcmath.MAX(n1.n_scale, n2.n_scale);
+      sumDigits = Libbcmath.MAX(n1.n_len, n2.n_len) + 1;
+      sum = Libbcmath.bc_new_num(sumDigits, Libbcmath.MAX(sumScale, scaleMin));
+
+      // Start with the fraction part.  Initialize the pointers.
+      n1bytes = n1.n_scale;
+      n2bytes = n2.n_scale;
+      n1ptr = n1.n_len + n1bytes - 1;
+      n2ptr = n2.n_len + n2bytes - 1;
+      sumptr = sumScale + sumDigits - 1;
+
+      // Add the fraction part.  First copy the longer fraction
+      // (ie when adding 1.2345 to 1 we know .2345 is correct already) .
+      if (n1bytes !== n2bytes) {
+        if (n1bytes > n2bytes) {
+          // n1 has more dp then n2
+          while (n1bytes > n2bytes) {
+            sum.n_value[sumptr--] = n1.n_value[n1ptr--];
+            // *sumptr-- = *n1ptr--;
+            n1bytes--;
+          }
+        } else {
+          // n2 has more dp then n1
+          while (n2bytes > n1bytes) {
+            sum.n_value[sumptr--] = n2.n_value[n2ptr--];
+            // *sumptr-- = *n2ptr--;
+            n2bytes--;
+          }
+        }
+      }
+
+      // Now add the remaining fraction part and equal size integer parts.
+      n1bytes += n1.n_len;
+      n2bytes += n2.n_len;
+      carry = 0;
+      while (n1bytes > 0 && n2bytes > 0) {
+        // add the two numbers together
+        tmp = n1.n_value[n1ptr--] + n2.n_value[n2ptr--] + carry;
+        // *sumptr = *n1ptr-- + *n2ptr-- + carry;
+        // check if they are >= 10 (impossible to be more then 18)
+        if (tmp >= Libbcmath.BASE) {
+          carry = 1;
+          tmp -= Libbcmath.BASE; // yep, subtract 10, add a carry
+        } else {
+          carry = 0;
+        }
+        sum.n_value[sumptr] = tmp;
+        sumptr--;
+        n1bytes--;
+        n2bytes--;
+      }
+
+      // Now add carry the [rest of the] longer integer part.
+      if (n1bytes === 0) {
+        // n2 is a bigger number then n1
+        while (n2bytes-- > 0) {
+          tmp = n2.n_value[n2ptr--] + carry;
+          // *sumptr = *n2ptr-- + carry;
+          if (tmp >= Libbcmath.BASE) {
+            carry = 1;
+            tmp -= Libbcmath.BASE;
+          } else {
+            carry = 0;
+          }
+          sum.n_value[sumptr--] = tmp;
+        }
+      } else {
+        // n1 is bigger then n2..
+        while (n1bytes-- > 0) {
+          tmp = n1.n_value[n1ptr--] + carry;
+          // *sumptr = *n1ptr-- + carry;
+          if (tmp >= Libbcmath.BASE) {
+            carry = 1;
+            tmp -= Libbcmath.BASE;
+          } else {
+            carry = 0;
+          }
+          sum.n_value[sumptr--] = tmp;
+        }
+      }
+
+      // Set final carry.
+      if (carry === 1) {
+        sum.n_value[sumptr] += 1;
+        // *sumptr += 1;
+      }
+
+      // Adjust sum and return.
+      Libbcmath._bc_rm_leading_zeros(sum);
+      return sum;
+    },
+
+    /**
+     * Perform a subtraction
+     *
+     * Perform subtraction: N2 is subtracted from N1 and the value is
+     *  returned.  The signs of N1 and N2 are ignored.  Also, N1 is
+     *  assumed to be larger than N2.  SCALE_MIN is the minimum scale
+     *  of the result.
+     *
+     * Basic school maths says to subtract 2 numbers..
+     * 1. make them the same length, the decimal places, and the integer part
+     * 2. start from the right and subtract the two numbers from each other
+     * 3. if the sum of the 2 numbers < 0, carry -1 to the next set and add 10
+     * (ie 18 > carry 1 becomes 8). thus 0.9 + 0.9 = 1.8
+     *
+     * @param {bc_num} n1
+     * @param {bc_num} n2
+     * @param {int} scaleMin
+     * @return bc_num
+     */
+    _bc_do_sub: function (n1, n2, scaleMin) {
+      let diff; // bc_num
+      let diffScale, diffLen; // int
+      let minScale, minLen; // int
+      let n1ptr, n2ptr, diffptr; // int
+      let borrow, count, val; // int
+      // Allocate temporary storage.
+      diffLen = Libbcmath.MAX(n1.n_len, n2.n_len);
+      diffScale = Libbcmath.MAX(n1.n_scale, n2.n_scale);
+      minLen = Libbcmath.MIN(n1.n_len, n2.n_len);
+      minScale = Libbcmath.MIN(n1.n_scale, n2.n_scale);
+      diff = Libbcmath.bc_new_num(diffLen, Libbcmath.MAX(diffScale, scaleMin));
+
+      /* Not needed?
+      // Zero extra digits made by scaleMin.
+      if (scaleMin > diffScale) {
+        diffptr = (char *) (diff->n_value + diffLen + diffScale);
+        for (count = scaleMin - diffScale; count > 0; count--) {
+          *diffptr++ = 0;
+        }
+      }
+      */
+
+      // Initialize the subtract.
+      n1ptr = n1.n_len + n1.n_scale - 1;
+      n2ptr = n2.n_len + n2.n_scale - 1;
+      diffptr = diffLen + diffScale - 1;
+
+      // Subtract the numbers.
+      borrow = 0;
+
+      // Take care of the longer scaled number.
+      if (n1.n_scale !== minScale) {
+        // n1 has the longer scale
+        for (count = n1.n_scale - minScale; count > 0; count--) {
+          diff.n_value[diffptr--] = n1.n_value[n1ptr--];
+          // *diffptr-- = *n1ptr--;
+        }
+      } else {
+        // n2 has the longer scale
+        for (count = n2.n_scale - minScale; count > 0; count--) {
+          val = 0 - n2.n_value[n2ptr--] - borrow;
+          // val = - *n2ptr-- - borrow;
+          if (val < 0) {
+            val += Libbcmath.BASE;
+            borrow = 1;
+          } else {
+            borrow = 0;
+          }
+          diff.n_value[diffptr--] = val;
+          //* diffptr-- = val;
+        }
+      }
+
+      // Now do the equal length scale and integer parts.
+      for (count = 0; count < minLen + minScale; count++) {
+        val = n1.n_value[n1ptr--] - n2.n_value[n2ptr--] - borrow;
+        // val = *n1ptr-- - *n2ptr-- - borrow;
+        if (val < 0) {
+          val += Libbcmath.BASE;
+          borrow = 1;
+        } else {
+          borrow = 0;
+        }
+        diff.n_value[diffptr--] = val;
+        //* diffptr-- = val;
+      }
+
+      // If n1 has more digits then n2, we now do that subtract.
+      if (diffLen !== minLen) {
+        for (count = diffLen - minLen; count > 0; count--) {
+          val = n1.n_value[n1ptr--] - borrow;
+          // val = *n1ptr-- - borrow;
+          if (val < 0) {
+            val += Libbcmath.BASE;
+            borrow = 1;
+          } else {
+            borrow = 0;
+          }
+          diff.n_value[diffptr--] = val;
+        }
+      }
+
+      // Clean up and return.
+      Libbcmath._bc_rm_leading_zeros(diff);
+      return diff;
+    },
+
+    /**
+     *
+     * @param {int} length
+     * @param {int} scale
+     * @return bc_num
+     */
+    bc_new_num: function (length, scale) {
+      let temp; // bc_num
+      temp = new Libbcmath.bc_num(); // eslint-disable-line new-cap
+      temp.n_sign = Libbcmath.PLUS;
+      temp.n_len = length;
+      temp.n_scale = scale;
+      temp.n_value = Libbcmath.safe_emalloc(1, length + scale, 0);
+      Libbcmath.memset(temp.n_value, 0, 0, length + scale);
+      return temp;
+    },
+
+    safe_emalloc: function (size, len, extra) {
+      return Array(size * len + extra);
+    },
+
+    /**
+     * Create a new number
+     */
+    bc_init_num: function () {
+      return new Libbcmath.bc_new_num(1, 0); // eslint-disable-line new-cap
+    },
+
+    _bc_rm_leading_zeros: function (num) {
+      // We can move n_value to point to the first non zero digit!
+      while (num.n_value[0] === 0 && num.n_len > 1) {
+        num.n_value.shift();
+        num.n_len--;
+      }
+    },
+
+    /**
+     * Convert to bc_num detecting scale
+     */
+    php_str2num: function (str) {
+      let p;
+      p = str.indexOf(".");
+      if (p === -1) {
+        return Libbcmath.bc_str2num(str, 0);
+      } else {
+        return Libbcmath.bc_str2num(str, str.length - p);
+      }
+    },
+
+    CH_VAL: function (c) {
+      return c - "0"; // ??
+    },
+
+    BCD_CHAR: function (d) {
+      return d + "0"; // ??
+    },
+
+    isdigit: function (c) {
+      return isNaN(parseInt(c, 10));
+    },
+
+    bc_str2num: function (strIn, scale) {
+      let str, num, ptr, digits, strscale, zeroInt, nptr;
+      // remove any non-expected characters
+      // Check for valid number and count digits.
+
+      str = strIn.split(""); // convert to array
+      ptr = 0; // str
+      digits = 0;
+      strscale = 0;
+      zeroInt = false;
+      if (str[ptr] === "+" || str[ptr] === "-") {
+        ptr++; // Sign
+      }
+      while (str[ptr] === "0") {
+        ptr++; // Skip leading zeros.
+      }
+      // while (Libbcmath.isdigit(str[ptr])) {
+      while (str[ptr] % 1 === 0) {
+        // Libbcmath.isdigit(str[ptr])) {
+        ptr++;
+        digits++; // digits
+      }
+
+      if (str[ptr] === ".") {
+        ptr++; // decimal point
+      }
+      // while (Libbcmath.isdigit(str[ptr])) {
+      while (str[ptr] % 1 === 0) {
+        // Libbcmath.isdigit(str[ptr])) {
+        ptr++;
+        strscale++; // digits
+      }
+
+      if (str[ptr] || digits + strscale === 0) {
+        // invalid number, return 0
+        return Libbcmath.bc_init_num();
+        //* num = bc_copy_num (BCG(_zero_));
+      }
+
+      // Adjust numbers and allocate storage and initialize fields.
+      strscale = Libbcmath.MIN(strscale, scale);
+      if (digits === 0) {
+        zeroInt = true;
+        digits = 1;
+      }
+
+      num = Libbcmath.bc_new_num(digits, strscale);
+
+      // Build the whole number.
+      ptr = 0; // str
+      if (str[ptr] === "-") {
+        num.n_sign = Libbcmath.MINUS;
+        // (*num)->n_sign = MINUS;
+        ptr++;
+      } else {
+        num.n_sign = Libbcmath.PLUS;
+        // (*num)->n_sign = PLUS;
+        if (str[ptr] === "+") {
+          ptr++;
+        }
+      }
+      while (str[ptr] === "0") {
+        ptr++; // Skip leading zeros.
+      }
+
+      nptr = 0; // (*num)->n_value;
+      if (zeroInt) {
+        num.n_value[nptr++] = 0;
+        digits = 0;
+      }
+      for (; digits > 0; digits--) {
+        num.n_value[nptr++] = Libbcmath.CH_VAL(str[ptr++]);
+        //* nptr++ = CH_VAL(*ptr++);
+      }
+
+      // Build the fractional part.
+      if (strscale > 0) {
+        ptr++; // skip the decimal point!
+        for (; strscale > 0; strscale--) {
+          num.n_value[nptr++] = Libbcmath.CH_VAL(str[ptr++]);
+        }
+      }
+
+      return num;
+    },
+
+    cint: function (v) {
+      if (typeof v === "undefined") {
+        v = 0;
+      }
+      let x = parseInt(v, 10);
+      if (isNaN(x)) {
+        x = 0;
+      }
+      return x;
+    },
+
+    /**
+     * Basic min function
+     * @param {int} a
+     * @param {int} b
+     */
+    MIN: function (a, b) {
+      return a > b ? b : a;
+    },
+
+    /**
+     * Basic max function
+     * @param {int} a
+     * @param {int} b
+     */
+    MAX: function (a, b) {
+      return a > b ? a : b;
+    },
+
+    /**
+     * Basic odd function
+     * @param {int} a
+     */
+    ODD: function (a) {
+      return a & 1;
+    },
+
+    /**
+     * replicate c function
+     * @param {array} r     return (by reference)
+     * @param {int} ptr
+     * @param {string} chr    char to fill
+     * @param {int} len       length to fill
+     */
+    memset: function (r, ptr, chr, len) {
+      let i;
+      for (i = 0; i < len; i++) {
+        r[ptr + i] = chr;
+      }
+    },
+
+    /**
+     * Replacement c function
+     * Obviously can't work like c does, so we've added an "offset"
+     * param so you could do memcpy(dest+1, src, len) as memcpy(dest, 1, src, len)
+     * Also only works on arrays
+     */
+    memcpy: function (dest, ptr, src, srcptr, len) {
+      let i;
+      for (i = 0; i < len; i++) {
+        dest[ptr + i] = src[srcptr + i];
+      }
+      return true;
+    },
+
+    /**
+     * Determine if the number specified is zero or not
+     * @param {bc_num} num    number to check
+     * @return boolean      true when zero, false when not zero.
+     */
+    bc_is_zero: function (num) {
+      let count; // int
+      let nptr; // int
+      // Quick check.
+      // if (num === BCG(_zero_)) return TRUE;
+      // Initialize
+      count = num.n_len + num.n_scale;
+      nptr = 0; // num->n_value;
+      // The check
+      while (count > 0 && num.n_value[nptr++] === 0) {
+        count--;
+      }
+
+      if (count !== 0) {
+        return false;
+      } else {
+        return true;
+      }
+    },
+
+    bc_out_of_memory: function () {
+      throw new Error("(BC) Out of memory");
+    },
+  };
+  return Libbcmath;
+};
+
+const bcdiv = (leftOperand, rightOperand, scale) => {
+  //  discuss at: https://locutus.io/php/bcdiv/
+  // original by: lmeyrick (https://sourceforge.net/projects/bcmath-js/)
+  //   example 1: bcdiv('1', '2')
+  //   returns 1: '0'
+  //   example 2: bcdiv('1', '2', 2)
+  //   returns 2: '0.50'
+  //   example 3: bcdiv('-1', '5', 4)
+  //   returns 3: '-0.2000'
+  //   example 4: bcdiv('8728932001983192837219398127471', '1928372132132819737213', 2)
+  //   returns 4: '4526580661.75'
+  const libbcmath = _bc();
+  let first, second, result;
+  if (typeof scale === "undefined") {
+    scale = libbcmath.scale;
+  }
+  scale = scale < 0 ? 0 : scale;
+  // create objects
+  first = libbcmath.bc_init_num();
+  second = libbcmath.bc_init_num();
+  result = libbcmath.bc_init_num();
+  first = libbcmath.php_str2num(leftOperand.toString());
+  second = libbcmath.php_str2num(rightOperand.toString());
+  result = libbcmath.bc_divide(first, second, scale);
+  if (result === -1) {
+    // error
+    throw new Error(11, "(BC) Division by zero");
+  }
+  if (result.n_scale > scale) {
+    result.n_scale = scale;
+  }
+  return result.toString();
+};
+
+const bcsub = (leftOperand, rightOperand, scale) => {
+  //  discuss at: https://locutus.io/php/bcsub/
+  // original by: lmeyrick (https://sourceforge.net/projects/bcmath-js/)
+  //   example 1: bcsub('1', '2')
+  //   returns 1: '-1'
+  //   example 2: bcsub('-1', '5', 4)
+  //   returns 2: '-6.0000'
+  //   example 3: bcsub('8728932001983192837219398127471', '1928372132132819737213', 2)
+  //   returns 3: '8728932000054820705086578390258.00'
+  const libbcmath = _bc();
+  let first, second, result;
+  if (typeof scale === "undefined") {
+    scale = libbcmath.scale;
+  }
+  scale = scale < 0 ? 0 : scale;
+  // create objects
+  first = libbcmath.bc_init_num();
+  second = libbcmath.bc_init_num();
+  result = libbcmath.bc_init_num();
+  first = libbcmath.php_str2num(leftOperand.toString());
+  second = libbcmath.php_str2num(rightOperand.toString());
+  result = libbcmath.bc_sub(first, second, scale);
+  if (result.n_scale > scale) {
+    result.n_scale = scale;
+  }
+  return result.toString();
+};
+
+const bcmul = (leftOperand, rightOperand, scale) => {
+  //  discuss at: https://locutus.io/php/bcmul/
+  // original by: lmeyrick (https://sourceforge.net/projects/bcmath-js/)
+  //   example 1: bcmul('1', '2')
+  //   returns 1: '2'
+  //   example 2: bcmul('-3', '5')
+  //   returns 2: '-15'
+  //   example 3: bcmul('1234567890', '9876543210')
+  //   returns 3: '12193263111263526900'
+  //   example 4: bcmul('2.5', '1.5', 2)
+  //   returns 4: '3.75'
+  const libbcmath = _bc();
+  let first, second, result;
+  if (typeof scale === "undefined") {
+    scale = libbcmath.scale;
+  }
+  scale = scale < 0 ? 0 : scale;
+  // create objects
+  first = libbcmath.bc_init_num();
+  second = libbcmath.bc_init_num();
+  result = libbcmath.bc_init_num();
+  first = libbcmath.php_str2num(leftOperand.toString());
+  second = libbcmath.php_str2num(rightOperand.toString());
+  result = libbcmath.bc_multiply(first, second, scale);
+  if (result.n_scale > scale) {
+    result.n_scale = scale;
+  }
+  return result.toString();
+};
